@@ -5,9 +5,9 @@ contentType: poetry
 
 <section>
 
-_S úsvitem a tak monotónní  
+S úsvitem a tak monotónní  
 Zívám a kdesi stále někdo šilhá  
-Není to jméno jen pohupování_
+Není to jméno jen pohupování
 
 </section>
 
@@ -29,13 +29,13 @@ Rozepsanou partituru rozjívených racků
 Na chvilku zestárnout mezi doutníky  
 Vyvanout klíčením
 
-_Na dveřích nápis:  
-Čtěte otvory_
+Na dveřích nápis:  
+Čtěte otvory
 
 </section>
 
 <section>
 
-_Kdesi uvnitř jsou také písmena_
+Kdesi uvnitř jsou také písmena
 
 </section>

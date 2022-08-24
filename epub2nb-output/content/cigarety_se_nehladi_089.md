@@ -23,14 +23,14 @@ Budete se smát možná jen usmívat
 Nešlo o žádnou nostalgii která hřaduje v životní velikosti  
 Jen co se vydraží přestane létat
 
-_Za každou větou je zaoblený světadíl  
+Za každou větou je zaoblený světadíl  
 Ošoupaný stín pouhé zboží  
-Děti ze sojové omáčky_
+Děti ze sojové omáčky
 
 </section>
 
 <section>
 
-_I letos padnou samá rekordní čísla_
+I letos padnou samá rekordní čísla
 
 </section>

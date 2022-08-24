@@ -21,21 +21,21 @@ Není co závidět
 Slova se loví jako mouchy  
 Týdny byly stále delší tak dlouhé že už nešly ani změřit
 
-_Zdi stárnou ale ještě se rozsvěcují_
+Zdi stárnou ale ještě se rozsvěcují
 
 </section>
 
 <section>
 
-_Několik století tažných ptáků a cigaret  
+Několik století tažných ptáků a cigaret  
 Ale jak se vlastně dostala perština do ústředního  
-     topení_
+     topení
 
 </section>
 
 <section>
 
-_Pohlédnout si do očí  
-A nesněžit_
+Pohlédnout si do očí  
+A nesněžit
 
 </section>

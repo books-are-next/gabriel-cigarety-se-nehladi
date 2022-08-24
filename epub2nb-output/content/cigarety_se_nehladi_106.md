@@ -5,7 +5,7 @@ contentType: poetry
 
 <section>
 
-_Mao je dnes něco jako biedermeier  
+Mao je dnes něco jako biedermeier  
 Ulice plná černobílých fotografií  
 Kdo si dnes vzpomene  
 Který gól padl ve třetí minutě  
@@ -16,6 +16,6 @@ Nečekaným zasmáním
 Kdosi se ohlásí v telefonu  
 A nikdo nepozná že je to Islámský stát  
 Vracel jsem se od jednoho pohlaví k druhému  
-Ale po mrtvých zůstaly jen řeky_
+Ale po mrtvých zůstaly jen řeky
 
 </section>

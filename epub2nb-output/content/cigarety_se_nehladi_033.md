@@ -5,24 +5,24 @@ contentType: poetry
 
 <section>
 
-_Tak dlouho se chodí pro radu až se voda utrhne_
+Tak dlouho se chodí pro radu až se voda utrhne
 
 </section>
 
 <section>
 
-_Kdo jinému jámu kopá nikdy neupadne_
+Kdo jinému jámu kopá nikdy neupadne
 
 </section>
 
 <section>
 
-_Stará jitrnice taky jitrnice_
+Stará jitrnice taky jitrnice
 
 </section>
 
 <section>
 
-_Kdo chce psa bít psa si najde_
+Kdo chce psa bít psa si najde
 
 </section>

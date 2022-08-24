@@ -5,16 +5,16 @@ contentType: poetry
 
 <section>
 
-_Vcházet stárnutím  
+Vcházet stárnutím  
 S průvanem šatníku  
 Celé město poskládané v řeznictví  
-Tak řekni řekni kung-pao_
+Tak řekni řekni kung-pao
 
 </section>
 
 <section>
 
-_Právo na práci  
-Je pozoruhodnou pornografií_
+Právo na práci  
+Je pozoruhodnou pornografií
 
 </section>

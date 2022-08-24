@@ -5,10 +5,10 @@ contentType: poetry
 
 <section>
 
-_Deštivé bulváry  
+Deštivé bulváry  
 Roztřesení chodci  
 Se rozsvěcují s prvními odstavci na slunci  
-Kdosi se bouří ale nevzdychá_
+Kdosi se bouří ale nevzdychá
 
 </section>
 
@@ -22,19 +22,19 @@ Jiné se jen uculují
 Plynou jako řeka  
 A nejdou přečíst
 
-_Ani nevím jaký se psal rok  
+Ani nevím jaký se psal rok  
 Korejští studenti chodili ve dvojstupech  
 Samá podivná souhvězdí  
 Která jsem si nemohl vymyslet  
-Ještě skoro dítě_
+Ještě skoro dítě
 
 </section>
 
 <section>
 
-_Stačí se rozhlédnout  
+Stačí se rozhlédnout  
 Labužníci se dál svolávají  
-Třebaže jsou už dávno v hrobě_
+Třebaže jsou už dávno v hrobě
 
 </section>
 

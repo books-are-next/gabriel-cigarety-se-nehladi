@@ -5,7 +5,7 @@ contentType: poetry
 
 <section>
 
-_Mihne se neposedí skřípe  
+Mihne se neposedí skřípe  
 Napůl je cítit stínem  
 Napůl ztroskotáním  
 Zdá se že dál otvírá ledničky  
@@ -14,24 +14,24 @@ Co vidíš ty?
 Staré fotografie v tak nečekanou dobu  
 S klobouky jsou o něco mladší  
 V noci jsou jako rozhledny  
-Křižovatky z hedvábí_
+Křižovatky z hedvábí
 
 </section>
 
 <section>
 
-_Lýtka přežvykují ještě dlouho poté  
+Lýtka přežvykují ještě dlouho poté  
 Co se vlak rozjel  
 Rozházené denní zprávy  
-Experti varují: Internet do osmi let zkolabuje_
+Experti varují: Internet do osmi let zkolabuje
 
 </section>
 
 <section>
 
-_Celé rodiny prosperují v Polynésii  
+Celé rodiny prosperují v Polynésii  
 Někteří se i odstěhovali  
 Snažte se  
-Tma je na konci schodů_
+Tma je na konci schodů
 
 </section>

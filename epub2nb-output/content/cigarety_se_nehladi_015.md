@@ -12,10 +12,10 @@ Chcete být moderní čtěte Ekonom
 Karlín je s vámi  
 Ve starých detektivkách není stín větší než revolver
 
-_Procházel jsem ulicí která se náhle rozsvítila  
+Procházel jsem ulicí která se náhle rozsvítila  
 Hudba už byla dávno na střechách  
 Jen v dálce stále ještě trčely komíny  
 Němí svědci  
-Několika čar navíc_
+Několika čar navíc
 
 </section>

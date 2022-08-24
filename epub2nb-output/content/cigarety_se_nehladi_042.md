@@ -5,7 +5,7 @@ contentType: poetry
 
 <section>
 
-_Znovu si vyhrnout límec  
+Znovu si vyhrnout límec  
 Jít vstříc tomu co se zamrazí  
 Co ještě občas prožene koule suknem náměstí  
 Cestou ztrácet kotlety  
@@ -16,7 +16,7 @@ Které moře spatřilo první dámské kalhoty
 Šumění prádla  
 Kreslí na fasády nemravná znamení  
 Jako kdyby nebylo dost pomačkaných stromů  
-Které samy od sebe nesvítí_
+Které samy od sebe nesvítí
 
 </section>
 

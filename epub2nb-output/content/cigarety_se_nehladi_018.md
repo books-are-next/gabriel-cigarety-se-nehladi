@@ -5,13 +5,13 @@ contentType: poetry
 
 <section>
 
-_Není proč i ty zůstáváš jen v závorkách  
+Není proč i ty zůstáváš jen v závorkách  
 Seznamy tažných ptáků jsou v módě  
 Samé esperanto  
 Přesto se dál směji svému klobouku  
 Jak vytírá pavučiny  
 Ještě nedávno to byla malba  
-V houstnoucím šeru hovoříme zase jen o omítce_
+V houstnoucím šeru hovoříme zase jen o omítce
 
 </section>
 
@@ -29,8 +29,8 @@ Poslední zprávy ze Sýrie už nikomu nic neříkají
 Žádný zákon neurčuje kolik má vážit liška v lese  
 Jak těžké mohou být slovníky
 
-_Projít městem a se vším souhlasit  
-Každý krejčí má svůj Londýn_
+Projít městem a se vším souhlasit  
+Každý krejčí má svůj Londýn
 
 </section>
 

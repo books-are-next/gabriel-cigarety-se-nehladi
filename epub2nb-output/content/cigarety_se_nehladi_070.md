@@ -5,21 +5,21 @@ contentType: poetry
 
 <section>
 
-_Pomočit ozvěnu  
+Pomočit ozvěnu  
 Rozházet kulisy  
-Zaťukat na maso prázdné stránky_
+Zaťukat na maso prázdné stránky
 
 </section>
 
 <section>
 
-_Proroci radí i několik století po smrti_
+Proroci radí i několik století po smrti
 
 </section>
 
 <section>
 
-_Budiž  
-Nastřílená zvěř se třpytí uprostřed týdne_
+Budiž  
+Nastřílená zvěř se třpytí uprostřed týdne
 
 </section>

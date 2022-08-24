@@ -5,7 +5,7 @@ contentType: poetry
 
 <section>
 
-_Vytřít svrchníkem vůní schodů  
+Vytřít svrchníkem vůní schodů  
 V dešti i matné odlesky stromů  
 Uskladněné ostrovy šrámy a ústřice  
 Jak tu leží a běží  
@@ -28,6 +28,6 @@ Ubrousky se hromadí se stářím
 Lucie už navždy bloudí Londýnem  
 Říkal jsem taxikáři  
 Jeďte kudy chcete  
-Stejně vidím hovno_
+Stejně vidím hovno
 
 </section>

@@ -9,29 +9,29 @@ Vše co je v člověku podivínské nesmyslné a zvláštní
 Lze bezpochyby vystihnout třemi slabikami slova  
      zahrada
 
-_V prázdných lahvích už nic není  
+V prázdných lahvích už nic není  
 A přesto jsou stále plné dějin  
 Zimou počmárané zdi  
-Se převracejí z boku na bok_
+Se převracejí z boku na bok
 
 </section>
 
 <section>
 
-_Klausův tchán za války pracoval  
-U tajné policie Slovenského státu_
+Klausův tchán za války pracoval  
+U tajné policie Slovenského státu
 
 </section>
 
 <section>
 
-_Najisto míří stmívání_
+Najisto míří stmívání
 
 </section>
 
 <section>
 
-_Některé pohledy  
-Si schováváme až na jaro_
+Některé pohledy  
+Si schováváme až na jaro
 
 </section>

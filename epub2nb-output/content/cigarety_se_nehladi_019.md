@@ -5,7 +5,7 @@ contentType: poetry
 
 <section>
 
-_Stále ještě elegantní  
+Stále ještě elegantní  
 Nedrží v zatmění  
 Konec plastových tašek zdarma se blíží  
 Vynálezce košil  
@@ -14,6 +14,6 @@ Byl známý tím
 Tramvaje jsou dnes pusté  
 Rozostřené podzimním listím  
 V Balzakovi jsem našel podivné slovo  
-Improper_
+Improper
 
 </section>

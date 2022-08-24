@@ -5,7 +5,7 @@ contentType: poetry
 
 <section>
 
-_Přízraky jsou dnes volně k mání  
+Přízraky jsou dnes volně k mání  
 Setmělá prkna  
 Vlající sýrové mísy  
 Osvětlený Kypr  
@@ -15,6 +15,6 @@ Je to stejně podivné
 Jako oprašovat umělecké předměty na sněhu  
 Nic víc  
 Jen v dálce někdo loví holuby  
-Schoulené mezi cigaretovými papírky_
+Schoulené mezi cigaretovými papírky
 
 </section>

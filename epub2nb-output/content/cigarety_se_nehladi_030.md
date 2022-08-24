@@ -5,27 +5,27 @@ contentType: poetry
 
 <section>
 
-_Jizva  
+Jizva  
 Co měla být vidět  
-Už z dálky_
+Už z dálky
 
 </section>
 
 <section>
 
-_Důmyslné přístroje  
+Důmyslné přístroje  
 Zaznamenají každé přeřeknutí  
 Raglánů  
 Na co nejvíc myslíme  
 Je nakonec jen flák masa  
 Nečitelné podpisy těch  
-Kteří uměli létat_
+Kteří uměli létat
 
 </section>
 
 <section>
 
-_Oblíbená busta na konci chodby  
+Oblíbená busta na konci chodby  
 Nezapomenutelná vůně  
 Školních záchodků  
 Dodnes nevím z kterého jablka  
@@ -34,64 +34,64 @@ Pes Lajka odvrácená tvář měsíce
 Čuk a Gek  
 Plyšoví domorodci  
 Kde se povalují  
-Loužičky pod věšákem_
+Loužičky pod věšákem
 
 </section>
 
 <section>
 
-_Celý film natočený v koupelně  
+Celý film natočený v koupelně  
 Jedna nota vedle druhé  
-Mezi mořskými řasami_
+Mezi mořskými řasami
 
 </section>
 
 <section>
 
-_Nebyl to ani zpěv ani hulákání  
+Nebyl to ani zpěv ani hulákání  
 Knihovna rozstříhaná na proužky  
 Pokud jde o nohy shodli jsme se  
 Jen sukně zůstávaly otázkou  
-Rozepsaným dopisem Karla Šebka_
+Rozepsaným dopisem Karla Šebka
 
 </section>
 
 <section>
 
-_Odpolední zelenina_
+Odpolední zelenina
 
 </section>
 
 <section>
 
-_Tenisové kurty zastrčené do tmy  
+Tenisové kurty zastrčené do tmy  
 I ve středu je možné prožít celý týden  
-Na přeskáčku i jeden den za druhým_
+Na přeskáčku i jeden den za druhým
 
 </section>
 
 <section>
 
-_Jména se vracejí když to nejméně čekáme  
-Jako kdyby půlnoc měla nějakou barvu_
+Jména se vracejí když to nejméně čekáme  
+Jako kdyby půlnoc měla nějakou barvu
 
 </section>
 
 <section>
 
-_Ještě se přesvědčit že Benátky jsou  
+Ještě se přesvědčit že Benátky jsou  
 Stále na svém místě  
-Uprostřed opery_
+Uprostřed opery
 
 </section>
 
 <section>
 
-_Vítat kníry  
+Vítat kníry  
 Vstříc ústřicím  
 Stačí blednout  
 Dvakrát  
 Třikrát  
-Do roka_
+Do roka
 
 </section>

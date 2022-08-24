@@ -5,32 +5,32 @@ contentType: poetry
 
 <section>
 
-_Řekne se nůž a je po noži  
+Řekne se nůž a je po noži  
 Ve vedlejším domě natírají zdi baterkou  
 Aby nebyl takový rámus  
 Takové vedro  
 Jako kdyby se moře jen převalovalo  
 V mase těch co dlouho do noci  
-Pohánějí stíny ulicí_
+Pohánějí stíny ulicí
 
 </section>
 
 <section>
 
-_Poslední slovo na předměstí už znělo jako výčitka_
+Poslední slovo na předměstí už znělo jako výčitka
 
 </section>
 
 <section>
 
-_Vyvalená břicha plná vybledlých zpráv  
-Vyhaslých vraků_
+Vyvalená břicha plná vybledlých zpráv  
+Vyhaslých vraků
 
 </section>
 
 <section>
 
-_Existují i jiné nadpřirozené úkazy:  
-Nedělní nuda v předsálí rozkroků_
+Existují i jiné nadpřirozené úkazy:  
+Nedělní nuda v předsálí rozkroků
 
 </section>

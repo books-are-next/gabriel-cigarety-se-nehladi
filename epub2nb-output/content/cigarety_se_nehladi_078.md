@@ -5,26 +5,26 @@ contentType: poetry
 
 <section>
 
-_Jistě i náznakem  
+Jistě i náznakem  
 Snad ještě drží břehy  
 Monotónní zázraky  
 Saint-Sulpice není jen kostel  
 Jsou to i malby nehybné talíře  
-Rue de Canette je dlouhá jen 150 metrů_
+Rue de Canette je dlouhá jen 150 metrů
 
 </section>
 
 <section>
 
-_Utíkej  
-Ulice chřestí_
+Utíkej  
+Ulice chřestí
 
 </section>
 
 <section>
 
-_Jiskřivé koule úsměvů v kožešině  
+Jiskřivé koule úsměvů v kožešině  
 Ta budoucí astrologie včel  
-Které hledají svůj rodokmen_
+Které hledají svůj rodokmen
 
 </section>

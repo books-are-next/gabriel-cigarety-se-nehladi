@@ -19,9 +19,9 @@ A nezadržovat dech
 Je to stejně absurdní jako školní atlas  
 Kde na každé stránce je jen poledne
 
-_Louže zasílané na dobírku  
+Louže zasílané na dobírku  
 Ještě jedna věta kolem které je jen tma  
 Jež nejde smazat  
-Kost prádla stojí na špičce_
+Kost prádla stojí na špičce
 
 </section>

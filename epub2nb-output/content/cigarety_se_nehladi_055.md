@@ -29,18 +29,18 @@ Gesto jež je gestem pouze ve vzpomínce
 
 Ring volný: boxerské rukavice z masa a provazy z hih­ňání
 
-_Lýtko? Už jen písek z pláže_
+Lýtko? Už jen písek z pláže
 
 </section>
 
 <section>
 
-_Okno vyžehlené za nás_
+Okno vyžehlené za nás
 
 </section>
 
 <section>
 
-_Prkna ty neznámé chuchvalce písku_
+Prkna ty neznámé chuchvalce písku
 
 </section>

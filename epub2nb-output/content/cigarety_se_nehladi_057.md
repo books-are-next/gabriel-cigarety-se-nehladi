@@ -5,9 +5,9 @@ contentType: poetry
 
 <section>
 
-_Deštníky  
+Deštníky  
 V podvečerní ulici  
 Kreslí  
-Stíny chodců_
+Stíny chodců
 
 </section>

@@ -5,7 +5,7 @@ contentType: poetry
 
 <section>
 
-_Hřebíčky skobičky  
+Hřebíčky skobičky  
 Konec týdne zarostlý travou  
 Tak jaké sténání  
 Venku nikdo jen pohozený psí štěkot  
@@ -16,6 +16,6 @@ Co chvíli sousedé svým dechem leští nábytek
 Odhánějí zamračené mraky od dveří  
 Kytice problémů podšívky stmívání  
 Co zítra  
-Přidat ke jménu i rozježděné kosti zatáček_
+Přidat ke jménu i rozježděné kosti zatáček
 
 </section>

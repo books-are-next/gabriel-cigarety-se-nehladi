@@ -5,21 +5,21 @@ contentType: poetry
 
 <section>
 
-_I v přírodě lze zaslechnout táhlý nářek saxofonu_
+I v přírodě lze zaslechnout táhlý nářek saxofonu
 
 </section>
 
 <section>
 
-_\*  
-Kdo z nás zná fotografii budoucnosti?_
+\*  
+Kdo z nás zná fotografii budoucnosti?
 
 </section>
 
 <section>
 
-_\*  
-Věčné ach s každou křižovatkou_
+\*  
+Věčné ach s každou křižovatkou
 
 </section>
 
@@ -28,14 +28,14 @@ Věčné ach s každou křižovatkou_
 \*  
 Skládací židle roztroušené v úsměvech nikomu nepatří
 
-_\*  
-Svůdná saka z příštích gest_
+\*  
+Svůdná saka z příštích gest
 
 </section>
 
 <section>
 
-_\*  
-Tak přeci: zase jen chodník_
+\*  
+Tak přeci: zase jen chodník
 
 </section>

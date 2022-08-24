@@ -5,7 +5,7 @@ contentType: poetry
 
 <section>
 
-_Vítězně i s přeřeknutím  
+Vítězně i s přeřeknutím  
 Ve švech ulice  
 Luštit křížovku a stárnout v listí  
 V přecpané tramvaji  
@@ -22,6 +22,6 @@ Průvan lesa mezi sametem a hedvábím
 Co všechno je ještě uvnitř  
 Co se nepodobá prádlu  
 Řady chodců bloumají kolem servírky  
-Občas i složené do tváří_
+Občas i složené do tváří
 
 </section>

@@ -5,32 +5,32 @@ contentType: poetry
 
 <section>
 
-_Splasknout a stále zářit  
+Splasknout a stále zářit  
 Bez výstrahy a tak daleko  
 Ještě chvíli to bylo malé pivo  
 Osvětlená jména jak se jen třepotají  
-V detailu dřeva_
+V detailu dřeva
 
 </section>
 
 <section>
 
-_Blednout  
+Blednout  
 Jedna tvář nerozeznatelná od druhé  
-Jako knoflíky_
+Jako knoflíky
 
 </section>
 
 <section>
 
-_Prosím tudy_
+Prosím tudy
 
 </section>
 
 <section>
 
-_Sestavování vlády se protahuje  
+Sestavování vlády se protahuje  
 Adaptujte mě do zoologické zahrady  
-Jako všechny ostatní_
+Jako všechny ostatní
 
 </section>

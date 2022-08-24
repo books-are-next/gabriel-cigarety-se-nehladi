@@ -11,24 +11,24 @@ Přečetl jsem znova celého Joyce
 Ke křoví přidal  i kus Hemingwaye  
 Rozpaky jaké se vyskytují jen ve vyprávění o přírodě
 
-_Euro podražilo ale nákupní střediska voní dál  
+Euro podražilo ale nákupní střediska voní dál  
 Sarančata okusují kabáty  
 K žádnému krveprolití nedošlo  
 Vzpomínkám vyčítáme jen kouř  
-Vaše zaměstnání: zvonění tiskem_
+Vaše zaměstnání: zvonění tiskem
 
 </section>
 
 <section>
 
-_Strašidla jsou dnes barevná_
+Strašidla jsou dnes barevná
 
 </section>
 
 <section>
 
-_Vietnamci bloudí ve Františkových Lázních  
+Vietnamci bloudí ve Františkových Lázních  
 Ale stále nemohou najít ten správný pramen  
-Kam by naházeli všechny drobné_
+Kam by naházeli všechny drobné
 
 </section>

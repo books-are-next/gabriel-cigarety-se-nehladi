@@ -5,15 +5,15 @@ contentType: poetry
 
 <section>
 
-_Každý si spočítá své kosti odložené v klobouku_
+Každý si spočítá své kosti odložené v klobouku
 
 </section>
 
 <section>
 
-_\*  
+\*  
 Záblesk cigaret rozsvěcuje noční ulice  
-Šťastné že je někdo protáhne jedním gestem_
+Šťastné že je někdo protáhne jedním gestem
 
 </section>
 
@@ -22,22 +22,22 @@ Záblesk cigaret rozsvěcuje noční ulice
 \*  
 Noční košile dál vládnou svým každodenním bohatstvím
 
-_\*  
-Nechte uším co patří zatáčkám_
+\*  
+Nechte uším co patří zatáčkám
 
 </section>
 
 <section>
 
-_\*  
-Noviny rozsypané v písku nechodí po špičkách_
+\*  
+Noviny rozsypané v písku nechodí po špičkách
 
 </section>
 
 <section>
 
-_\*  
-Ztráty a nálezy: ozvěny slov v zívnutí tmy_
+\*  
+Ztráty a nálezy: ozvěny slov v zívnutí tmy
 
 </section>
 
@@ -46,10 +46,10 @@ Ztráty a nálezy: ozvěny slov v zívnutí tmy_
 \*  
 Zastavárny prošlých blesků a překousnutých sirek
 
-_\*  
+\*  
 Pomalovali si břicha  
 Protože to nic nestálo  
 Ale jejich ruce stárnou  
-Lhostejné k počasí_
+Lhostejné k počasí
 
 </section>
