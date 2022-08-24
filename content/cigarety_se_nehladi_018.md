@@ -1,6 +1,6 @@
 ---
 title: Jen jméno
-contentType: prose
+contentType: poetry
 ---
 
 <section>

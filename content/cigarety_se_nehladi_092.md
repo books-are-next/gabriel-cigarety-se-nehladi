@@ -1,6 +1,6 @@
 ---
 title: Několik maličkostí
-contentType: prose
+contentType: poetry
 ---
 
 <section>

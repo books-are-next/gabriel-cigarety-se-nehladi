@@ -1,6 +1,6 @@
 ---
 title: Kavárna bez křídel
-contentType: prose
+contentType: poetry
 ---
 
 <section>

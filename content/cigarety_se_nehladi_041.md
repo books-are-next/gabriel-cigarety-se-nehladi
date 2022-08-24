@@ -1,6 +1,6 @@
 ---
 title: Za zdí
-contentType: prose
+contentType: poetry
 ---
 
 <section>

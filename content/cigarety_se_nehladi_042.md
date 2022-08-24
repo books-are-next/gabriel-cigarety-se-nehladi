@@ -1,6 +1,6 @@
 ---
 title: Vzpomínka na nároží
-contentType: prose
+contentType: poetry
 ---
 
 <section>

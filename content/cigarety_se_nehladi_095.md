@@ -1,6 +1,6 @@
 ---
 title: Den navíc
-contentType: prose
+contentType: poetry
 ---
 
 <section>

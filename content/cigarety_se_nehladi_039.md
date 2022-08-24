@@ -1,6 +1,6 @@
 ---
 title: "Laser: jak tu leží a\_běží"
-contentType: prose
+contentType: poetry
 ---
 
 <section>

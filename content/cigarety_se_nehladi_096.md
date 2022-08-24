@@ -1,6 +1,6 @@
 ---
 title: Přenášené poselství
-contentType: prose
+contentType: poetry
 ---
 
 <section>

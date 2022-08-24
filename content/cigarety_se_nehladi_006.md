@@ -1,6 +1,6 @@
 ---
 title: Odposlechy
-contentType: prose
+contentType: poetry
 ---
 
 <section>

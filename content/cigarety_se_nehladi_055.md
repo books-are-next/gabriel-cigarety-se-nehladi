@@ -1,6 +1,6 @@
 ---
 title: Nemožné objekty
-contentType: prose
+contentType: poetry
 ---
 
 <section>

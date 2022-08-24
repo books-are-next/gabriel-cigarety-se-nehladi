@@ -1,6 +1,6 @@
 ---
 title: Studium perštiny
-contentType: prose
+contentType: poetry
 ---
 
 <section>

@@ -1,6 +1,6 @@
 ---
 title: Přiznání
-contentType: prose
+contentType: poetry
 ---
 
 <section>

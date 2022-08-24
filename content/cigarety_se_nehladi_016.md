@@ -1,6 +1,6 @@
 ---
 title: Ve čtvrtek
-contentType: prose
+contentType: poetry
 ---
 
 <section>

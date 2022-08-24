@@ -1,6 +1,6 @@
 ---
 title: Zapomnění
-contentType: prose
+contentType: poetry
 ---
 
 <section>

@@ -1,6 +1,6 @@
 ---
 title: Každý sám za sebe
-contentType: prose
+contentType: poetry
 ---
 
 <section>

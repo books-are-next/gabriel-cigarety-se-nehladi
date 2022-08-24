@@ -1,6 +1,6 @@
 ---
 title: První chvíle
-contentType: prose
+contentType: poetry
 ---
 
 <section>

@@ -1,6 +1,6 @@
 ---
 title: "Tam a\_zpět"
-contentType: prose
+contentType: poetry
 ---
 
 <section>

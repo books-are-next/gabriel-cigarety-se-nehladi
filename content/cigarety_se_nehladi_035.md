@@ -1,6 +1,6 @@
 ---
 title: Ještě několik let
-contentType: prose
+contentType: poetry
 ---
 
 <section>

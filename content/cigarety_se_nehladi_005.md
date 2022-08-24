@@ -1,6 +1,6 @@
 ---
 title: Denní zprávy
-contentType: prose
+contentType: poetry
 ---
 
 <section>

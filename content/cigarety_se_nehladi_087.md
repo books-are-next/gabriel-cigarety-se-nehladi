@@ -1,6 +1,6 @@
 ---
 title: Kufry vpravo okna vlevo
-contentType: prose
+contentType: poetry
 ---
 
 <section>

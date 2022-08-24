@@ -1,6 +1,6 @@
 ---
 title: 'Cigaretové papírky: Olšany'
-contentType: prose
+contentType: poetry
 ---
 
 <section>

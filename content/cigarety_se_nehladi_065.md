@@ -1,6 +1,6 @@
 ---
 title: Volný pád
-contentType: prose
+contentType: poetry
 ---
 
 <section>

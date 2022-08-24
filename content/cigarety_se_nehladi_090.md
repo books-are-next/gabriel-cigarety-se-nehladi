@@ -1,6 +1,6 @@
 ---
 title: Rekonstrukce
-contentType: prose
+contentType: poetry
 ---
 
 <section>

@@ -1,6 +1,6 @@
 ---
 title: Proměny
-contentType: prose
+contentType: poetry
 ---
 
 <section>

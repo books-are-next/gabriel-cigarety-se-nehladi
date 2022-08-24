@@ -1,6 +1,6 @@
 ---
 title: Ve skleněnce
-contentType: prose
+contentType: poetry
 ---
 
 <section>

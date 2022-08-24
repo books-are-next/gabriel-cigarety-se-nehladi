@@ -1,6 +1,6 @@
 ---
 title: Zůstaly jen nápisy
-contentType: prose
+contentType: poetry
 ---
 
 <section>

@@ -1,6 +1,6 @@
 ---
 title: Zprávy II
-contentType: prose
+contentType: poetry
 ---
 
 <section>

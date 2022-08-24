@@ -1,6 +1,6 @@
 ---
 title: Kdykoli
-contentType: prose
+contentType: poetry
 ---
 
 <section>

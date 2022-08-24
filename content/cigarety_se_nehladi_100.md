@@ -1,6 +1,6 @@
 ---
 title: Tajemství zůstalo utajeno
-contentType: prose
+contentType: poetry
 ---
 
 <section>

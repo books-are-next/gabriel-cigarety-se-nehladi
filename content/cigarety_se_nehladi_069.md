@@ -1,6 +1,6 @@
 ---
 title: Kolemjdoucí města
-contentType: prose
+contentType: poetry
 ---
 
 <section>

@@ -1,6 +1,6 @@
 ---
 title: Zastavení 1
-contentType: prose
+contentType: poetry
 ---
 
 <section>

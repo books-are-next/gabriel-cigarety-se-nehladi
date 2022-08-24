@@ -1,6 +1,6 @@
 ---
 title: "Ve místě i v\_přírodě"
-contentType: prose
+contentType: poetry
 ---
 
 <section>

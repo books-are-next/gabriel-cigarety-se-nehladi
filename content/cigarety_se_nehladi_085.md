@@ -1,6 +1,6 @@
 ---
 title: Pro jednou to stačí
-contentType: prose
+contentType: poetry
 ---
 
 <section>
