@@ -15,20 +15,20 @@ Výstřel který se ozval z obrazu
 Nemusíme chodit daleko  
 Všude jsou jablka střechy rozhovory opřené o římsy
 
-_Tučňáci se houfují na špičce střevíce_
+Tučňáci se houfují na špičce střevíce
 
 </section>
 
 <section>
 
-_Některé dámy jsem osobně znal  
+Některé dámy jsem osobně znal  
 Nedaly se spočítat odlétaly jako krajiny  
-Dveře otvírané špičkou jazyka_
+Dveře otvírané špičkou jazyka
 
 </section>
 
 <section>
 
-_Nejbližší budoucnost je v kobercích_
+Nejbližší budoucnost je v kobercích
 
 </section>

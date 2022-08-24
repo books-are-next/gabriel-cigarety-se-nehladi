@@ -5,7 +5,7 @@ contentType: poetry
 
 <section>
 
-_Počkej  
+Počkej  
 Jsou to jen vlasy  
 Rozlité víno kreslí po stehně neznámou krajinu  
 Zaplavené louky zmuchlané kuchařky  
@@ -18,6 +18,6 @@ Samé výzkumy poletujícího peří
 Pánví i prostěradel  
 Nebude dlouho trvat a všichni budeme kulatí  
 Unie vypsala grant  
-Kdo jako první přijde s vyšíváním rybníků_
+Kdo jako první přijde s vyšíváním rybníků
 
 </section>

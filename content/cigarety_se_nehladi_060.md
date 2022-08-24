@@ -5,7 +5,7 @@ contentType: poetry
 
 <section>
 
-_U Rolls-Royce je důležité zda má alibi  
+U Rolls-Royce je důležité zda má alibi  
 Večerní šaty  
 Dnes večer dávali v televizi Hitchcockovy Ptáky  
 Nic se nezměnilo  
@@ -17,6 +17,6 @@ Ta vaše minulost je stále stejně bezejmenná
 Připomíná jazykové kroužky  
 Ale je nebezpečnější  
 Flák masa vešel do moře  
-A všichni kolem dělali že ho nevidí_
+A všichni kolem dělali že ho nevidí
 
 </section>

@@ -5,13 +5,13 @@ contentType: poetry
 
 <section>
 
-_Napoprvé jsem hotel přešel  
+Napoprvé jsem hotel přešel  
 Ale bistro hned vedle mě vábilo  
 Už pouhou zvědavostí  
 Zdánlivou ospalostí tušených závratí  
 Barev které se míchají až po soumraku  
 Nápisem Vins à emporter  
-S vůní minulého století_
+S vůní minulého století
 
 </section>
 
@@ -30,19 +30,19 @@ Se rozlévají u barového pultu
 Jako nenadále pozdvižené obočí  
 Které ne a ne uletět
 
-_Přepych rozbitých pedálů  
+Přepych rozbitých pedálů  
 Náhlé příměří mezi armádami turistů  
-To je vše co mohu podepsat_
+To je vše co mohu podepsat
 
 </section>
 
 <section>
 
-_Druhá návštěva se podobala té první  
+Druhá návštěva se podobala té první  
 Pátá třetí další zatoulaným akvarelům  
 Pohozeným nedopalkům v očích  
 Kde se chvěly i prsty těch  
 Kteří věděli  
-Jakým plamenem hoří výkladní skříně_
+Jakým plamenem hoří výkladní skříně
 
 </section>

@@ -5,50 +5,50 @@ contentType: poetry
 
 <section>
 
-_1  
+1  
 Křídlo ticha  
 Už sype pohledům celý jeden svět  
-Poskládaný z ubrousků_
+Poskládaný z ubrousků
 
 </section>
 
 <section>
 
-_2  
+2  
 Větve v nás  
 Rozšiřují prostor  
 Trousí baloňáky náměstím  
 Můžete hádat  
 Kdo se jako první ztratí  
-Na křižovatce_
+Na křižovatce
 
 </section>
 
 <section>
 
-_3  
+3  
 Nahé nože  
 Zářivé neony  
 Vodní hladiny  
 Zvolání: To světlo  
-Je celý Céline_
+Je celý Céline
 
 </section>
 
 <section>
 
-_4  
+4  
 Kolikrát se spokojím  
 S opuštěným jídelním lístkem  
-Vzdálených výkřiků_
+Vzdálených výkřiků
 
 </section>
 
 <section>
 
-_5  
+5  
 Rozházené městské krajiny  
 Nás svádějí už tím  
-Jak nenápadně vklouzly do dějin_
+Jak nenápadně vklouzly do dějin
 
 </section>

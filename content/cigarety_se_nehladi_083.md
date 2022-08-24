@@ -5,7 +5,7 @@ contentType: poetry
 
 <section>
 
-_Lidé je měli jako na dlani  
+Lidé je měli jako na dlani  
 A státníci nezapírali svůj původ  
 Zasněni nad stránkami zpěvníků  
 Radovali se že delegace ze Zanzibaru  
@@ -21,6 +21,6 @@ Jedno počasí krásnější než druhé
 Karel Čapek vedle Chestertona  
 No vida  
 Kdyby mi patřila Čína  
-Bylo by to všechno vaše_
+Bylo by to všechno vaše
 
 </section>

@@ -5,9 +5,9 @@ contentType: poetry
 
 <section>
 
-_Jejich výpovědi jsou kulaté  
+Jejich výpovědi jsou kulaté  
 Dlouhé jako rampouchy  
 Rozsvěcují se  
-Ale neprojdou dveřmi_
+Ale neprojdou dveřmi
 
 </section>

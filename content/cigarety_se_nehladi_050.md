@@ -5,7 +5,7 @@ contentType: poetry
 
 <section>
 
-_Jistěže rád  
+Jistěže rád  
 Malovat jen klepáním prstů  
 Obývat žaluzie  
 Provětrat šatník ve vráskách sousedů  
@@ -16,23 +16,23 @@ Prší jen proužky látky
 Vyleštěné stíny zvenku i zevnitř  
 Cosi zvoní  
 No prosím  
-Buenos Aires_
+Buenos Aires
 
 </section>
 
 <section>
 
-_Kostry jsou na lékařský předpis  
+Kostry jsou na lékařský předpis  
 Nikdo neví proč  
 Nejsou to nadávky  
-Ale letní zahrádky vytažené ze slovníku_
+Ale letní zahrádky vytažené ze slovníku
 
 </section>
 
 <section>
 
-_Večerní zprávy  
+Večerní zprávy  
 Zhasínají za nás  
-V očích kolemjdoucích_
+V očích kolemjdoucích
 
 </section>

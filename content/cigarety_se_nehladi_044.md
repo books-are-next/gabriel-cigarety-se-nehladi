@@ -5,7 +5,7 @@ contentType: poetry
 
 <section>
 
-_Na Jižním pólu jsou hole delší  
+Na Jižním pólu jsou hole delší  
 Zkoumavé pohledy: šeptáme planety  
 Také peníze mají svůj životopis  
 V Dušanbe na ně lepí mouchy  
@@ -15,27 +15,27 @@ Jakou barvu budou mít letos šle
 Jak dlouho bude platit Opencard  
 Kdo na protějším břehu zmodrá  
 Jeden okraj krásnější než druhý  
-Budeme hořet_
+Budeme hořet
 
 </section>
 
 <section>
 
-_Nevěsty se dnes prodávají jako starožitnosti_
+Nevěsty se dnes prodávají jako starožitnosti
 
 </section>
 
 <section>
 
-_Ani na té nejvyšší větvi však už není žádné jídlo  
+Ani na té nejvyšší větvi však už není žádné jídlo  
 Nikdo se tomu nediví  
 Ale je to hezký pohled  
-Ostrov a na něm jen bílé sochy_
+Ostrov a na něm jen bílé sochy
 
 </section>
 
 <section>
 
-_Dnes_
+Dnes
 
 </section>

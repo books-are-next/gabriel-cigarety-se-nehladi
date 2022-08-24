@@ -5,19 +5,19 @@ contentType: poetry
 
 <section>
 
-_Všechno cos odhodila  
+Všechno cos odhodila  
 Ještě chvíli bloudí přírodou  
 Staré noviny zaoblené světadíly  
 Dřevo v němž stále svítá  
 Podvazky ale patří moři  
 Stejně jako New York  
-Plný roztroušených Číňanů_
+Plný roztroušených Číňanů
 
 </section>
 
 <section>
 
-_Nusle bez soch ale zato s hudbou  
+Nusle bez soch ale zato s hudbou  
 Podvečerní zahrada už při vstupu  
 Připomínala spíše dopolední matiné  
 Prso dámy jako kdyby se podřeklo  
@@ -25,24 +25,24 @@ A rychle vylíčilo všechny problémy života
 Někteří při hudbě dokonce tloustli stínem  
 První druhé třetí dítě  
 Slova jako Tibet schodiště Kapverdy  
-Samá věčnost hned vedle propocené košile_
+Samá věčnost hned vedle propocené košile
 
 </section>
 
 <section>
 
-_Luštíme vzpomínky  
+Luštíme vzpomínky  
 Blesky chodníků  
 Výklady kůže co se uculuje  
-Nevím proč_
+Nevím proč
 
 </section>
 
 <section>
 
-_Ale nad pokladem je pokaždé ještě stůl  
+Ale nad pokladem je pokaždé ještě stůl  
 Podle prvních odhadů  
 Padl teplotní rekord na třiceti místech v Česku  
-Odložená těla se zvolna vylidňovala_
+Odložená těla se zvolna vylidňovala
 
 </section>

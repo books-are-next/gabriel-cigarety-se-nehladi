@@ -5,28 +5,28 @@ contentType: poetry
 
 <section>
 
-_Jistěže  
+Jistěže  
 Afrika potrvá celý den  
 Ve všech zátiších  
 Drát o dvou koncích  
-Jako ostatní_
+Jako ostatní
 
 </section>
 
 <section>
 
-_Alespoň jednou v noci vystřelit  
+Alespoň jednou v noci vystřelit  
 Ušklíbnout se  
 Překročit mrtvého  
-A složit se jako dopis_
+A složit se jako dopis
 
 </section>
 
 <section>
 
-_Telefonní seznamy  
+Telefonní seznamy  
 Žluté stránky  
 Plné vlhkých průsmyků  
-Prázdných těl_
+Prázdných těl
 
 </section>

@@ -5,13 +5,13 @@ contentType: poetry
 
 <section>
 
-_Také jsme viděli:_
+Také jsme viděli:
 
 </section>
 
 <section>
 
-_Velikonoční vajíčko v koutě pokoje  
+Velikonoční vajíčko v koutě pokoje  
 Chrastící staniol odlupující se z trolejbusů  
 Trafiky i prázdné ulice po flámu  
 Hbité ruce měny  
@@ -51,14 +51,14 @@ Tenisové kurty rozevřených stehen
 Svobodnou Evropu s tikem ve tváři  
 Ztopořené pohlaví ve vybraných slovech  
 Nesrozumitelné půdy a zahrady  
-Jak se zvětšují jako všechny trosky_
+Jak se zvětšují jako všechny trosky
 
 </section>
 
 <section>
 
-_Také jsme viděli  
+Také jsme viděli  
 Jen vybledlé fotografie  
-Nahé kůže kteréhokoli předměstí_
+Nahé kůže kteréhokoli předměstí
 
 </section>

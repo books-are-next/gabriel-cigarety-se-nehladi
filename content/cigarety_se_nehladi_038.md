@@ -5,7 +5,7 @@ contentType: poetry
 
 <section>
 
-_Nelze si vybrat a to už je půl druhé  
+Nelze si vybrat a to už je půl druhé  
 Nápisy na hrobech jsou jako křídla  
 Samá nečitelná jména  
 Uschlé věnce  
@@ -27,6 +27,6 @@ K pronajmutí jsou dnes i celé vesnice
 Ceny TýTý posbírali Havlová Gott Voříšek i Šíp  
 Josef Hiršal neustále opakoval „To je fantastické“  
 Ale jen smrt se tváří  
-Jako kdyby nikdy nic nebylo_
+Jako kdyby nikdy nic nebylo
 
 </section>

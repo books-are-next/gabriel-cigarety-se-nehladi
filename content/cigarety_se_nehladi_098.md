@@ -5,7 +5,7 @@ contentType: poetry
 
 <section>
 
-_Sezóna začala  
+Sezóna začala  
 Je půl šesté  
 Přišpendlené parníky  
 Zvedají kotvy  
@@ -18,6 +18,6 @@ Připomínají ústřice
 Jen ztichlí rybáři  
 Se nenechají ničím rušit  
 Dál házejí své splávky  
-Vstříc počmárané zdi_
+Vstříc počmárané zdi
 
 </section>

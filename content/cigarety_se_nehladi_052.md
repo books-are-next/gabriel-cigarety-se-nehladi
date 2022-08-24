@@ -5,42 +5,42 @@ contentType: poetry
 
 <section>
 
-_Stačí několik let  
+Stačí několik let  
 a z tváře plné příběhů  
-Prší jen tečky a čárky_
+Prší jen tečky a čárky
 
 </section>
 
 <section>
 
-_Zapamatovat si telefonní číslo ve tři ráno  
+Zapamatovat si telefonní číslo ve tři ráno  
 Přejít z tramvajové zastávky na cizí kontinent  
 Potopit se i s okolní metropolí  
-A přesto stále cítit vůni mýdla_
+A přesto stále cítit vůni mýdla
 
 </section>
 
 <section>
 
-_Je neděle ale žádné stíny kolem  
+Je neděle ale žádné stíny kolem  
 Architektura kapesníků  
-je příliš daleko než aby se nezmenšovala_
+je příliš daleko než aby se nezmenšovala
 
 </section>
 
 <section>
 
-_Měla chuť na lososa  
+Měla chuť na lososa  
 Jen co se proměnila uprostřed věty  
 V dopise zůstalo pouze několik písmen z těch  
 která se podobala skládacím židlím  
-Prstům bloudícím v sukních ulice_
+Prstům bloudícím v sukních ulice
 
 </section>
 
 <section>
 
-_Vraťte všechny pohledy  
-A buďte veselí_
+Vraťte všechny pohledy  
+A buďte veselí
 
 </section>

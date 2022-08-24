@@ -5,7 +5,7 @@ contentType: poetry
 
 <section>
 
-_Jistě  
+Jistě  
 Nejlepší bude ještě chvíli počkat  
 Číst mraky  
 Donést kapky potu až na letiště  
@@ -19,24 +19,24 @@ Lucii už zřejmě neuvidím
 Nevím co si o tom myslet  
 Kam oklepat popel  
 A to nejsem sám kdo přestal kouřit  
-Blednout ve faldech tváří_
+Blednout ve faldech tváří
 
 </section>
 
 <section>
 
-_Budeme se tedy rozhlížet  
+Budeme se tedy rozhlížet  
 Pán už přiletěl  
 Ostrov mu byl nejspíš malý  
 Samé prasečinky zrcadlové brýle  
 Jazyky které ne a ne usnout  
-Ještě poletují ale už dohořívají_
+Ještě poletují ale už dohořívají
 
 </section>
 
 <section>
 
-_Venku hřmí  
+Venku hřmí  
 Jen já tu trčím celý ztuhlý  
 Vyhodil jsem spousty dopisů  
 Neděle ze slonoviny  
@@ -47,6 +47,6 @@ Zamyšlená netečná čela
 Jak se blíží sluncem zalitý  
 Nápis Riga-Airport  
 Vztyčený malíček jen se přidat  
-Dožít a nezezelenat v omítce_
+Dožít a nezezelenat v omítce
 
 </section>

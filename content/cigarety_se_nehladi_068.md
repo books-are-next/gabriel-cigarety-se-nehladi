@@ -5,7 +5,7 @@ contentType: poetry
 
 <section>
 
-_Rozpaky nekuřáků  
+Rozpaky nekuřáků  
 Jejich rozházená gesta  
 Marně hledají  
 Který stín se hodí ke slovu whisky  
@@ -15,6 +15,6 @@ Oblak z vlasů ve středu města
 Za nás za všechny  
 Rozhoupané dopoledne  
 Vzdálené cinkání prstů  
-Pro pěší i kamiony_
+Pro pěší i kamiony
 
 </section>

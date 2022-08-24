@@ -5,7 +5,7 @@ contentType: poetry
 
 <section>
 
-_Domácí se změnil  
+Domácí se změnil  
 Zdraví a usmívá se  
 Říkáš  
 Přečkal zimu  
@@ -14,36 +14,36 @@ Jen pár pytlů cementu dál svítí ve tmě
 Jako kdyby šlo o nějaký cestopis  
 Na zahradě jsou složena celá města  
 Manžetové knoflíčky  
-To je dnes celý přírodopis_
+To je dnes celý přírodopis
 
 </section>
 
 <section>
 
-_V prostřeném tichu kdysi několikrát hořelo  
+V prostřeném tichu kdysi několikrát hořelo  
 Jizvy monologů shromážděné kolem vypínače  
 Černé hodinky z ptačích křídel  
 Perské koberce vytažené z rozevřeného atlasu  
 Už jen podřimují  
 Rozesmáté bouřky i hradby  
 Křehké klouby nastavené zvonění zvonů  
-Je poledne_
+Je poledne
 
 </section>
 
 <section>
 
-_Matka umřela před dvaceti lety  
-Ale stále ještě překresluje šaty v šatníku_
+Matka umřela před dvaceti lety  
+Ale stále ještě překresluje šaty v šatníku
 
 </section>
 
 <section>
 
-_Fotografie růžové jizvy se tolik podobají básním  
+Fotografie růžové jizvy se tolik podobají básním  
 V dubnu si znovu přečtu Eliotovu Pustou zemi  
 Každý dnes má mail twitter facebook  
-Větve z mlhy_
+Větve z mlhy
 
 </section>
 

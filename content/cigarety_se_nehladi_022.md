@@ -5,55 +5,55 @@ contentType: poetry
 
 <section>
 
-_Některé dámy si naskládaly na talíř celou večeři_
+Některé dámy si naskládaly na talíř celou večeři
 
 </section>
 
 <section>
 
-_\*  
-Němci popotahující nosem vrážejí na kolonádě do svých vlastních přízraků_
+\*  
+Němci popotahující nosem vrážejí na kolonádě do svých vlastních přízraků
 
 </section>
 
 <section>
 
-_\*  
-Křižovatky slov a osamělost davu_
+\*  
+Křižovatky slov a osamělost davu
 
 </section>
 
 <section>
 
-_\*  
-Krásné jako tramvaje které kvůli náledí nejezdí_
+\*  
+Krásné jako tramvaje které kvůli náledí nejezdí
 
 </section>
 
 <section>
 
-_\*  
-Neprohrát svou nepřítomnost_
+\*  
+Neprohrát svou nepřítomnost
 
 </section>
 
 <section>
 
-_\*  
-Představa že obličej je filmovým plátnem na němž vidíme jen šumění deště_
+\*  
+Představa že obličej je filmovým plátnem na němž vidíme jen šumění deště
 
 </section>
 
 <section>
 
-_\*  
-Roztančené pihy zaplnily celý přístav_
+\*  
+Roztančené pihy zaplnily celý přístav
 
 </section>
 
 <section>
 
-_\*  
-Plavte nahé stejně nic nevysvětlíte_
+\*  
+Plavte nahé stejně nic nevysvětlíte
 
 </section>

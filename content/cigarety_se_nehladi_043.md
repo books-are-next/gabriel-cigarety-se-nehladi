@@ -5,22 +5,22 @@ contentType: poetry
 
 <section>
 
-_Ještě nepopsané svatební šaty  
+Ještě nepopsané svatební šaty  
 Přesýpací tenisové kurty  
 Přeložený jídelní lístek  
 Nevyžehlený Karel Vlach  
 Pole zaplavené sirkami  
 Nasládlé hračkářství  
 Kadeřníci prohlížející si břicho  
-Atd._
+Atd.
 
 </section>
 
 <section>
 
-_Dopis napsaný na Titaniku jen několik hodin  
+Dopis napsaný na Titaniku jen několik hodin  
 Před srážkou lodi s ledovcem  
 Se na aukci v Británii prodal za 119 000 liber  
-Atd._
+Atd.
 
 </section>

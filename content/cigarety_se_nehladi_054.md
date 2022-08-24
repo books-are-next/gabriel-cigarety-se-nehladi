@@ -5,7 +5,7 @@ contentType: poetry
 
 <section>
 
-_Čí křoví je větší  
+Čí křoví je větší  
 Ne nebudeme se dohadovat  
 Jedna šavle ještě šumí v publiku  
 Druhá se třese smíchem  
@@ -24,6 +24,6 @@ Bylo to něco jako déšť
 Nebo škatule na vystřelování doutníků  
 Co mělo původně shořet  
 Trčelo dál jako další aforismy  
-Nic víc nic míň_
+Nic víc nic míň
 
 </section>

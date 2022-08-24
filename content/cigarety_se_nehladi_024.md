@@ -5,7 +5,7 @@ contentType: poetry
 
 <section>
 
-_Zasněžená skříň plná poletujících sak_
+Zasněžená skříň plná poletujících sak
 
 </section>
 
@@ -17,7 +17,7 @@ Na Slovensku nechali uprostřed rozestavěné silnice sloup
 \*  
 Stíny hřadující v podpaží a vyholená pohlaví jsou jediným otazníkem letní ulice
 
-_\*  
-Blesky podvazků pašované přes hranice_
+\*  
+Blesky podvazků pašované přes hranice
 
 </section>

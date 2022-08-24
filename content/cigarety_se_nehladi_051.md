@@ -5,20 +5,20 @@ contentType: poetry
 
 <section>
 
-_Hned se pozná  
+Hned se pozná  
 Čí dobrodružství kvete v dlani  
 Nedbale zastrčené v kapsičce saka  
 Už se třese  
 Poletuje  
 Kreslí okolím nemravná znamení  
 Ve všech vybraných slovech  
-je tu a tam i mokro_
+je tu a tam i mokro
 
 </section>
 
 <section>
 
-_Tvrdí se že to byly ještě děti  
+Tvrdí se že to byly ještě děti  
 když zmizely v předpovědích počasí  
 Žádné sochy propasti koně jako kukátka  
 Samé zpustošené objekty  
@@ -28,20 +28,20 @@ Ale žádný úspěch to nebyl
 Victor Hugo zůstal tam kde byl  
 Jiskrou mezi zajíci  
 Není to žádný mrzák  
-Jen déšť_
+Jen déšť
 
 </section>
 
 <section>
 
-_Ty zkoušky jsem naštěstí neudělal_
+Ty zkoušky jsem naštěstí neudělal
 
 </section>
 
 <section>
 
-_Právě tudy nikdo dlouho nešel  
+Právě tudy nikdo dlouho nešel  
 Střílny otázek jsou jako pavučiny:  
-Mávají rukama_
+Mávají rukama
 
 </section>

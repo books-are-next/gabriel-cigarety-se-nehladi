@@ -5,31 +5,31 @@ contentType: poetry
 
 <section>
 
-_Další příchozí je podáním ruky  
+Další příchozí je podáním ruky  
 Ne nesmějte se  
 Tenisové kurty jsou tu proto  
-Aby se tvářily jako obrazy_
+Aby se tvářily jako obrazy
 
 </section>
 
 <section>
 
-_Nemůžeme si pamatovat všechno  
-Neboť jsme neprožili celý život v akváriu_
+Nemůžeme si pamatovat všechno  
+Neboť jsme neprožili celý život v akváriu
 
 </section>
 
 <section>
 
-_Na jídelním lístku musí být napříště údaj  
+Na jídelním lístku musí být napříště údaj  
 O váze a výšce každého jídla  
 Jsou na to zákony  
-Střechy na které si už nevzpomínáme_
+Střechy na které si už nevzpomínáme
 
 </section>
 
 <section>
 
-_Proměny deště a zubů žijí ve vráskách_
+Proměny deště a zubů žijí ve vráskách
 
 </section>

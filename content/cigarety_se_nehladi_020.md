@@ -15,17 +15,17 @@ Platí jen do Vánoc
 Mrtví jsou jako záhony  
 Záleží na počasí
 
-_Včera večer byla diskuse o surrealismu  
+Včera večer byla diskuse o surrealismu  
 Co je umění a co ideologie  
 Jak se rodí báseň  
 Lidé se radovali ale přestávali slyšet  
 Žádné jámy pouze rozžhavené roury  
-Lhostejné k jazyku i ke křídlům_
+Lhostejné k jazyku i ke křídlům
 
 </section>
 
 <section>
 
-_Někdo dál kouří celé dny za sklem_
+Někdo dál kouří celé dny za sklem
 
 </section>

@@ -11,9 +11,9 @@ Počítají integrály ale neumějí umřít
 Kávu si na terásce objednávají škrtnutím sirky  
 Medek i Štýrský dosáhli aukčních rekordů
 
-_Přikusuj sýr  
+Přikusuj sýr  
 Přemýšlej očima  
-Kýchej ulicí_
+Kýchej ulicí
 
 </section>
 

@@ -7,22 +7,22 @@ contentType: poetry
 
 > _opět Lucii_
 
-_Hned po probuzení  
+Hned po probuzení  
 Tiky předchozího dne  
-Jak se opravují jako provazový žebřík_
+Jak se opravují jako provazový žebřík
 
 </section>
 
 <section>
 
-_Rychle otočit ještě jednu stránku v očích  
-Jako kdyby šlo jen o barvy v kalendáři_
+Rychle otočit ještě jednu stránku v očích  
+Jako kdyby šlo jen o barvy v kalendáři
 
 </section>
 
 <section>
 
-_Vlasta Burian bydlel hned za rohem  
-Ale na stín výčitek můžeme střílet jen z dálky_
+Vlasta Burian bydlel hned za rohem  
+Ale na stín výčitek můžeme střílet jen z dálky
 
 </section>

@@ -5,34 +5,34 @@ contentType: poetry
 
 <section>
 
-_Vytáhni z kapsy blesk  
+Vytáhni z kapsy blesk  
 Rozlož metr  
-Tiše se směj_
+Tiše se směj
 
 </section>
 
 <section>
 
-_Zimní slunce pátrá ve výloze  
+Zimní slunce pátrá ve výloze  
 Které rukavice jsou zatměním  
 Včera jsem znovu četl Karla Hynka  
 Přelomené párátko uvnitř zvonu  
 Vrásky stáří  
-Každá má jinou barvu podtrhaných vět_
+Každá má jinou barvu podtrhaných vět
 
 </section>
 
 <section>
 
-_Zpřeházené stránky železničních souprav_
+Zpřeházené stránky železničních souprav
 
 </section>
 
 <section>
 
-_Vybledlá Paříž kdesi zívá místo nás  
+Vybledlá Paříž kdesi zívá místo nás  
 Blednoucí záchodky i mastné peří ptáků  
-Opravdu to není jen ticho co dál září v košili_
+Opravdu to není jen ticho co dál září v košili
 
 </section>
 
@@ -40,19 +40,19 @@ Opravdu to není jen ticho co dál září v košili_
 
 Psal se rok 1965 a mrtví stále ještě přešlapovali na místě
 
-_Řeznictví plné zítřejších zpráv  
-Němých filmů_
+Řeznictví plné zítřejších zpráv  
+Němých filmů
 
 </section>
 
 <section>
 
-_Jsme_
+Jsme
 
 </section>
 
 <section>
 
-_Kdesi si možná lidé ještě píší vzkazy klobouky_
+Kdesi si možná lidé ještě píší vzkazy klobouky
 
 </section>

@@ -5,7 +5,7 @@ contentType: poetry
 
 <section>
 
-_Sejít se schodů  
+Sejít se schodů  
 Je už malý výlet  
 Být sám sobě stínem  
 Zářit  
@@ -18,42 +18,42 @@ Vítr
 V kostech měst  
 V rozkvetlém mase  
 Květinářství  
-A to ještě není březen_
+A to ještě není březen
 
 </section>
 
 <section>
 
-_Ukrajinci volají po modrých přilbách  
+Ukrajinci volají po modrých přilbách  
 Ale dostanou jen nesrozumitelné třešně  
 Řekové chtějí vyšší životní úroveň  
 Ale jejich rozhovory nejsou tak dlouhé  
-Aby obepluly všechny ostrovy_
+Aby obepluly všechny ostrovy
 
 </section>
 
 <section>
 
-_Kdo se má vyznat  
+Kdo se má vyznat  
 V tom  
 Co nás kdysi doprovázelo  
-Na druhou stranu řeky_
+Na druhou stranu řeky
 
 </section>
 
 <section>
 
-_Vratislavu Effenbergerovi  
+Vratislavu Effenbergerovi  
 Jsem poprvé volal  
 V lednu 1970  
 Mladé lvice  
-Už nežijí v telefonních seznamech_
+Už nežijí v telefonních seznamech
 
 </section>
 
 <section>
 
-_Jsou to popraskané zdi  
-Porostlé psím vínem_
+Jsou to popraskané zdi  
+Porostlé psím vínem
 
 </section>

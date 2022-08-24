@@ -5,31 +5,31 @@ contentType: poetry
 
 <section>
 
-_Tělo přišpendlené slunečními paprsky  
-Zčistajasna celý atlas parkující u chodníku_
+Tělo přišpendlené slunečními paprsky  
+Zčistajasna celý atlas parkující u chodníku
 
 </section>
 
 <section>
 
-_Matné obrysy kabátů stárnou ve skříni  
+Matné obrysy kabátů stárnou ve skříni  
 Nic než kulisa která kvete  
 Jen naoko  
-Jinde ubývá_
+Jinde ubývá
 
 </section>
 
 <section>
 
-_Bill Evans mi pomohl přežít včerejší odpoledne_
+Bill Evans mi pomohl přežít včerejší odpoledne
 
 </section>
 
 <section>
 
-_Říkáte potopa  
+Říkáte potopa  
 Šumění kapesníků  
 Zkusmo zarámované  
-Jako vše ostatní_
+Jako vše ostatní
 
 </section>

@@ -5,58 +5,58 @@ contentType: poetry
 
 <section>
 
-_Vietnamci se culí nad svými hůlkami  
-Jako kdyby to bylo něco ke čtení_
+Vietnamci se culí nad svými hůlkami  
+Jako kdyby to bylo něco ke čtení
 
 </section>
 
 <section>
 
-_\*  
+\*  
 Vycházkové hole dál kotví ve tmě  
-Samé ruční práce v pobledlé výloze_
+Samé ruční práce v pobledlé výloze
 
 </section>
 
 <section>
 
-_\*  
-Když už kýchat tak pouze v nových ponožkách_
+\*  
+Když už kýchat tak pouze v nových ponožkách
 
 </section>
 
 <section>
 
-_\*  
-Smát se jako se směje zasněžená kávová lžička v hotelu_
+\*  
+Smát se jako se směje zasněžená kávová lžička v hotelu
 
 </section>
 
 <section>
 
-_\*  
+\*  
 Zraněné ubrusy zvadly ještě dřív  
-Než přišli první hosté počmárat je svými gesty_
+Než přišli první hosté počmárat je svými gesty
 
 </section>
 
 <section>
 
-_\*  
-Umlít maso a nechat Číňany bloumat v zeměpise_
+\*  
+Umlít maso a nechat Číňany bloumat v zeměpise
 
 </section>
 
 <section>
 
-_\*  
-Klouby se za soumraku usmívají nad vyluštěnou křížovkou_
+\*  
+Klouby se za soumraku usmívají nad vyluštěnou křížovkou
 
 </section>
 
 <section>
 
-_\*  
-Noviny blednou po řádcích_
+\*  
+Noviny blednou po řádcích
 
 </section>
