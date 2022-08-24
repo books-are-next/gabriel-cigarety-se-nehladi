@@ -1,0 +1,639 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+ "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd"><ncx version="2005-1" xmlns="http://www.daisy.org/z3986/2005/ncx/">
+  <head>
+    <meta content="urn:uuid:296c0919-9963-415a-a386-6c26c077b931" name="dtb:uid"/>
+    <meta content="1" name="dtb:depth"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Cigarety se nehladí</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navPoint-1" playOrder="1">
+      <navLabel>
+        <text>Denní zprávy</text>
+      </navLabel>
+      <content src="Text/cigarety_se_nehladi_005.xhtml#_idParaDest-1"/>
+    </navPoint>
+    <navPoint id="navPoint-2" playOrder="2">
+      <navLabel>
+        <text>Odposlechy</text>
+      </navLabel>
+      <content src="Text/cigarety_se_nehladi_006.xhtml#_idParaDest-2"/>
+    </navPoint>
+    <navPoint id="navPoint-3" playOrder="3">
+      <navLabel>
+        <text>Řeznictví na konci světa</text>
+      </navLabel>
+      <content src="Text/cigarety_se_nehladi_007.xhtml#_idParaDest-3"/>
+    </navPoint>
+    <navPoint id="navPoint-4" playOrder="4">
+      <navLabel>
+        <text>Zastavení 1</text>
+      </navLabel>
+      <content src="Text/cigarety_se_nehladi_008.xhtml#_idParaDest-4"/>
+    </navPoint>
+    <navPoint id="navPoint-5" playOrder="5">
+      <navLabel>
+        <text>Zastavení 2</text>
+      </navLabel>
+      <content src="Text/cigarety_se_nehladi_009.xhtml#_idParaDest-5"/>
+    </navPoint>
+    <navPoint id="navPoint-6" playOrder="6">
+      <navLabel>
+        <text>Každý si spočítá své kosti odložené v klobouku</text>
+      </navLabel>
+      <content src="Text/cigarety_se_nehladi_010.xhtml#_idParaDest-6"/>
+    </navPoint>
+    <navPoint id="navPoint-7" playOrder="7">
+      <navLabel>
+        <text>Kavárna</text>
+      </navLabel>
+      <content src="Text/cigarety_se_nehladi_011.xhtml#_idParaDest-7"/>
+    </navPoint>
+    <navPoint id="navPoint-8" playOrder="8">
+      <navLabel>
+        <text>Pobledlé dveře čekají na své hasiče</text>
+      </navLabel>
+      <content src="Text/cigarety_se_nehladi_012.xhtml#_idParaDest-8"/>
+    </navPoint>
+    <navPoint id="navPoint-9" playOrder="9">
+      <navLabel>
+        <text>Ve skleněnce</text>
+      </navLabel>
+      <content src="Text/cigarety_se_nehladi_013.xhtml#_idParaDest-9"/>
+    </navPoint>
+    <navPoint id="navPoint-10" playOrder="10">
+      <navLabel>
+        <text>Okraj dne lemovaný nervózním poťukáváním prstů</text>
+      </navLabel>
+      <content src="Text/cigarety_se_nehladi_014.xhtml#_idParaDest-10"/>
+    </navPoint>
+    <navPoint id="navPoint-11" playOrder="11">
+      <navLabel>
+        <text>Jdeme Karlínem</text>
+      </navLabel>
+      <content src="Text/cigarety_se_nehladi_015.xhtml#_idParaDest-11"/>
+    </navPoint>
+    <navPoint id="navPoint-12" playOrder="12">
+      <navLabel>
+        <text>Ve čtvrtek</text>
+      </navLabel>
+      <content src="Text/cigarety_se_nehladi_016.xhtml#_idParaDest-12"/>
+    </navPoint>
+    <navPoint id="navPoint-13" playOrder="13">
+      <navLabel>
+        <text>Zapomnění</text>
+      </navLabel>
+      <content src="Text/cigarety_se_nehladi_017.xhtml#_idParaDest-13"/>
+    </navPoint>
+    <navPoint id="navPoint-14" playOrder="14">
+      <navLabel>
+        <text>Jen jméno</text>
+      </navLabel>
+      <content src="Text/cigarety_se_nehladi_018.xhtml#_idParaDest-14"/>
+    </navPoint>
+    <navPoint id="navPoint-15" playOrder="15">
+      <navLabel>
+        <text>Stále ještě elegantní</text>
+      </navLabel>
+      <content src="Text/cigarety_se_nehladi_019.xhtml#_idParaDest-15"/>
+    </navPoint>
+    <navPoint id="navPoint-16" playOrder="16">
+      <navLabel>
+        <text>I když jsem rozsvítil ostrovy byly stále stejně daleko</text>
+      </navLabel>
+      <content src="Text/cigarety_se_nehladi_020.xhtml#_idParaDest-16"/>
+    </navPoint>
+    <navPoint id="navPoint-17" playOrder="17">
+      <navLabel>
+        <text>Burza</text>
+      </navLabel>
+      <content src="Text/cigarety_se_nehladi_021.xhtml#_idParaDest-17"/>
+    </navPoint>
+    <navPoint id="navPoint-18" playOrder="18">
+      <navLabel>
+        <text>Některé dámy si naskládaly na talíř celou večeři</text>
+      </navLabel>
+      <content src="Text/cigarety_se_nehladi_022.xhtml#_idParaDest-18"/>
+    </navPoint>
+    <navPoint id="navPoint-19" playOrder="19">
+      <navLabel>
+        <text>Lázně a návraty</text>
+      </navLabel>
+      <content src="Text/cigarety_se_nehladi_023.xhtml#_idParaDest-19"/>
+    </navPoint>
+    <navPoint id="navPoint-20" playOrder="20">
+      <navLabel>
+        <text>Zasněžená skříň plná poletujících sak</text>
+      </navLabel>
+      <content src="Text/cigarety_se_nehladi_024.xhtml#_idParaDest-20"/>
+    </navPoint>
+    <navPoint id="navPoint-21" playOrder="21">
+      <navLabel>
+        <text>Události</text>
+      </navLabel>
+      <content src="Text/cigarety_se_nehladi_025.xhtml#_idParaDest-21"/>
+    </navPoint>
+    <navPoint id="navPoint-22" playOrder="22">
+      <navLabel>
+        <text>Studium perštiny</text>
+      </navLabel>
+      <content src="Text/cigarety_se_nehladi_026.xhtml#_idParaDest-22"/>
+    </navPoint>
+    <navPoint id="navPoint-23" playOrder="23">
+      <navLabel>
+        <text>Ženy se na konci hole pokaždé zdají o něco větší</text>
+      </navLabel>
+      <content src="Text/cigarety_se_nehladi_027.xhtml#_idParaDest-23"/>
+    </navPoint>
+    <navPoint id="navPoint-24" playOrder="24">
+      <navLabel>
+        <text>Z ruky do ruky</text>
+      </navLabel>
+      <content src="Text/cigarety_se_nehladi_028.xhtml#_idParaDest-24"/>
+    </navPoint>
+    <navPoint id="navPoint-25" playOrder="25">
+      <navLabel>
+        <text>Hned po ránu</text>
+      </navLabel>
+      <content src="Text/cigarety_se_nehladi_029.xhtml#_idParaDest-25"/>
+    </navPoint>
+    <navPoint id="navPoint-26" playOrder="26">
+      <navLabel>
+        <text>Zprávy II</text>
+      </navLabel>
+      <content src="Text/cigarety_se_nehladi_030.xhtml#_idParaDest-26"/>
+    </navPoint>
+    <navPoint id="navPoint-27" playOrder="27">
+      <navLabel>
+        <text>Kavárna bez křídel</text>
+      </navLabel>
+      <content src="Text/cigarety_se_nehladi_031.xhtml#_idParaDest-27"/>
+    </navPoint>
+    <navPoint id="navPoint-28" playOrder="28">
+      <navLabel>
+        <text>Cestovat kolem stolu</text>
+      </navLabel>
+      <content src="Text/cigarety_se_nehladi_032.xhtml#_idParaDest-28"/>
+    </navPoint>
+    <navPoint id="navPoint-29" playOrder="29">
+      <navLabel>
+        <text>Tak dlouho se chodí pro radu až se voda utrhne</text>
+      </navLabel>
+      <content src="Text/cigarety_se_nehladi_033.xhtml#_idParaDest-29"/>
+    </navPoint>
+    <navPoint id="navPoint-30" playOrder="30">
+      <navLabel>
+        <text>Všude kolem jsou prý lidé</text>
+      </navLabel>
+      <content src="Text/cigarety_se_nehladi_034.xhtml#_idParaDest-30"/>
+    </navPoint>
+    <navPoint id="navPoint-31" playOrder="31">
+      <navLabel>
+        <text>Ještě několik let</text>
+      </navLabel>
+      <content src="Text/cigarety_se_nehladi_035.xhtml#_idParaDest-31"/>
+    </navPoint>
+    <navPoint id="navPoint-32" playOrder="32">
+      <navLabel>
+        <text>Pohlednice z Tibetu</text>
+      </navLabel>
+      <content src="Text/cigarety_se_nehladi_036.xhtml#_idParaDest-32"/>
+    </navPoint>
+    <navPoint id="navPoint-33" playOrder="33">
+      <navLabel>
+        <text>Lovení v lese</text>
+      </navLabel>
+      <content src="Text/cigarety_se_nehladi_037.xhtml#_idParaDest-33"/>
+    </navPoint>
+    <navPoint id="navPoint-34" playOrder="34">
+      <navLabel>
+        <text>Cigaretové papírky: Olšany</text>
+      </navLabel>
+      <content src="Text/cigarety_se_nehladi_038.xhtml#_idParaDest-34"/>
+    </navPoint>
+    <navPoint id="navPoint-35" playOrder="35">
+      <navLabel>
+        <text>Laser: jak tu leží a běží</text>
+      </navLabel>
+      <content src="Text/cigarety_se_nehladi_039.xhtml#_idParaDest-35"/>
+    </navPoint>
+    <navPoint id="navPoint-36" playOrder="36">
+      <navLabel>
+        <text>Vietnamci se culí nad svými hůlkami</text>
+      </navLabel>
+      <content src="Text/cigarety_se_nehladi_040.xhtml#_idParaDest-36"/>
+    </navPoint>
+    <navPoint id="navPoint-37" playOrder="37">
+      <navLabel>
+        <text>Za zdí</text>
+      </navLabel>
+      <content src="Text/cigarety_se_nehladi_041.xhtml#_idParaDest-37"/>
+    </navPoint>
+    <navPoint id="navPoint-38" playOrder="38">
+      <navLabel>
+        <text>Vzpomínka na nároží</text>
+      </navLabel>
+      <content src="Text/cigarety_se_nehladi_042.xhtml#_idParaDest-38"/>
+    </navPoint>
+    <navPoint id="navPoint-39" playOrder="39">
+      <navLabel>
+        <text>Na prodej</text>
+      </navLabel>
+      <content src="Text/cigarety_se_nehladi_043.xhtml#_idParaDest-39"/>
+    </navPoint>
+    <navPoint id="navPoint-40" playOrder="40">
+      <navLabel>
+        <text>Bez jediné vady</text>
+      </navLabel>
+      <content src="Text/cigarety_se_nehladi_044.xhtml#_idParaDest-40"/>
+    </navPoint>
+    <navPoint id="navPoint-41" playOrder="41">
+      <navLabel>
+        <text>Příroda pod střechou</text>
+      </navLabel>
+      <content src="Text/cigarety_se_nehladi_045.xhtml#_idParaDest-41"/>
+    </navPoint>
+    <navPoint id="navPoint-42" playOrder="42">
+      <navLabel>
+        <text>Pařížské obrazy</text>
+      </navLabel>
+      <content src="Text/cigarety_se_nehladi_046.xhtml#_idParaDest-42"/>
+    </navPoint>
+    <navPoint id="navPoint-43" playOrder="43">
+      <navLabel>
+        <text>Bloudění a střechy</text>
+      </navLabel>
+      <content src="Text/cigarety_se_nehladi_047.xhtml#_idParaDest-43"/>
+    </navPoint>
+    <navPoint id="navPoint-44" playOrder="44">
+      <navLabel>
+        <text>Každý sám za sebe</text>
+      </navLabel>
+      <content src="Text/cigarety_se_nehladi_048.xhtml#_idParaDest-44"/>
+    </navPoint>
+    <navPoint id="navPoint-45" playOrder="45">
+      <navLabel>
+        <text>Zátiší</text>
+      </navLabel>
+      <content src="Text/cigarety_se_nehladi_049.xhtml#_idParaDest-45"/>
+    </navPoint>
+    <navPoint id="navPoint-46" playOrder="46">
+      <navLabel>
+        <text>Přiznání</text>
+      </navLabel>
+      <content src="Text/cigarety_se_nehladi_050.xhtml#_idParaDest-46"/>
+    </navPoint>
+    <navPoint id="navPoint-47" playOrder="47">
+      <navLabel>
+        <text>Ty zkoušky jsem naštěstí neudělal</text>
+      </navLabel>
+      <content src="Text/cigarety_se_nehladi_051.xhtml#_idParaDest-47"/>
+    </navPoint>
+    <navPoint id="navPoint-48" playOrder="48">
+      <navLabel>
+        <text>Proměny</text>
+      </navLabel>
+      <content src="Text/cigarety_se_nehladi_052.xhtml#_idParaDest-48"/>
+    </navPoint>
+    <navPoint id="navPoint-49" playOrder="49">
+      <navLabel>
+        <text>Na cestě</text>
+      </navLabel>
+      <content src="Text/cigarety_se_nehladi_053.xhtml#_idParaDest-49"/>
+    </navPoint>
+    <navPoint id="navPoint-50" playOrder="50">
+      <navLabel>
+        <text>Čí křoví je větší</text>
+      </navLabel>
+      <content src="Text/cigarety_se_nehladi_054.xhtml#_idParaDest-50"/>
+    </navPoint>
+    <navPoint id="navPoint-51" playOrder="51">
+      <navLabel>
+        <text>Nemožné objekty</text>
+      </navLabel>
+      <content src="Text/cigarety_se_nehladi_055.xhtml#_idParaDest-51"/>
+    </navPoint>
+    <navPoint id="navPoint-52" playOrder="52">
+      <navLabel>
+        <text>Ve místě i v přírodě</text>
+      </navLabel>
+      <content src="Text/cigarety_se_nehladi_056.xhtml#_idParaDest-52"/>
+    </navPoint>
+    <navPoint id="navPoint-53" playOrder="53">
+      <navLabel>
+        <text>Deštníky</text>
+      </navLabel>
+      <content src="Text/cigarety_se_nehladi_057.xhtml#_idParaDest-53"/>
+    </navPoint>
+    <navPoint id="navPoint-54" playOrder="54">
+      <navLabel>
+        <text>Zůstaly jen nápisy</text>
+      </navLabel>
+      <content src="Text/cigarety_se_nehladi_058.xhtml#_idParaDest-54"/>
+    </navPoint>
+    <navPoint id="navPoint-55" playOrder="55">
+      <navLabel>
+        <text>Rozhledy</text>
+      </navLabel>
+      <content src="Text/cigarety_se_nehladi_059.xhtml#_idParaDest-55"/>
+    </navPoint>
+    <navPoint id="navPoint-56" playOrder="56">
+      <navLabel>
+        <text>U Rolls-Royce je důležité zda má alibi</text>
+      </navLabel>
+      <content src="Text/cigarety_se_nehladi_060.xhtml#_idParaDest-56"/>
+    </navPoint>
+    <navPoint id="navPoint-57" playOrder="57">
+      <navLabel>
+        <text>Reader’s Digest poletují vesmírem</text>
+      </navLabel>
+      <content src="Text/cigarety_se_nehladi_061.xhtml#_idParaDest-57"/>
+    </navPoint>
+    <navPoint id="navPoint-58" playOrder="58">
+      <navLabel>
+        <text>Proměny</text>
+      </navLabel>
+      <content src="Text/cigarety_se_nehladi_062.xhtml#_idParaDest-58"/>
+    </navPoint>
+    <navPoint id="navPoint-59" playOrder="59">
+      <navLabel>
+        <text>První chvíle</text>
+      </navLabel>
+      <content src="Text/cigarety_se_nehladi_063.xhtml#_idParaDest-59"/>
+    </navPoint>
+    <navPoint id="navPoint-60" playOrder="60">
+      <navLabel>
+        <text>Vytáhni z kapsy blesk</text>
+      </navLabel>
+      <content src="Text/cigarety_se_nehladi_064.xhtml#_idParaDest-60"/>
+    </navPoint>
+    <navPoint id="navPoint-61" playOrder="61">
+      <navLabel>
+        <text>Volný pád</text>
+      </navLabel>
+      <content src="Text/cigarety_se_nehladi_065.xhtml#_idParaDest-61"/>
+    </navPoint>
+    <navPoint id="navPoint-62" playOrder="62">
+      <navLabel>
+        <text>Ohlédnutí</text>
+      </navLabel>
+      <content src="Text/cigarety_se_nehladi_066.xhtml#_idParaDest-62"/>
+    </navPoint>
+    <navPoint id="navPoint-63" playOrder="63">
+      <navLabel>
+        <text>Bydliště</text>
+      </navLabel>
+      <content src="Text/cigarety_se_nehladi_067.xhtml#_idParaDest-63"/>
+    </navPoint>
+    <navPoint id="navPoint-64" playOrder="64">
+      <navLabel>
+        <text>Rozpaky nekuřáků</text>
+      </navLabel>
+      <content src="Text/cigarety_se_nehladi_068.xhtml#_idParaDest-64"/>
+    </navPoint>
+    <navPoint id="navPoint-65" playOrder="65">
+      <navLabel>
+        <text>Kolemjdoucí města</text>
+      </navLabel>
+      <content src="Text/cigarety_se_nehladi_069.xhtml#_idParaDest-65"/>
+    </navPoint>
+    <navPoint id="navPoint-66" playOrder="66">
+      <navLabel>
+        <text>Pomočit ozvěnu</text>
+      </navLabel>
+      <content src="Text/cigarety_se_nehladi_070.xhtml#_idParaDest-66"/>
+    </navPoint>
+    <navPoint id="navPoint-67" playOrder="67">
+      <navLabel>
+        <text>Námluvy</text>
+      </navLabel>
+      <content src="Text/cigarety_se_nehladi_071.xhtml#_idParaDest-67"/>
+    </navPoint>
+    <navPoint id="navPoint-68" playOrder="68">
+      <navLabel>
+        <text>Kdykoli</text>
+      </navLabel>
+      <content src="Text/cigarety_se_nehladi_072.xhtml#_idParaDest-68"/>
+    </navPoint>
+    <navPoint id="navPoint-69" playOrder="69">
+      <navLabel>
+        <text>Venku cosi houká</text>
+      </navLabel>
+      <content src="Text/cigarety_se_nehladi_073.xhtml#_idParaDest-69"/>
+    </navPoint>
+    <navPoint id="navPoint-70" playOrder="70">
+      <navLabel>
+        <text>Tam a zpět</text>
+      </navLabel>
+      <content src="Text/cigarety_se_nehladi_074.xhtml#_idParaDest-70"/>
+    </navPoint>
+    <navPoint id="navPoint-71" playOrder="71">
+      <navLabel>
+        <text>Tělo přišpendlené slunečními paprsky</text>
+      </navLabel>
+      <content src="Text/cigarety_se_nehladi_075.xhtml#_idParaDest-71"/>
+    </navPoint>
+    <navPoint id="navPoint-72" playOrder="72">
+      <navLabel>
+        <text>By night</text>
+      </navLabel>
+      <content src="Text/cigarety_se_nehladi_076.xhtml#_idParaDest-72"/>
+    </navPoint>
+    <navPoint id="navPoint-73" playOrder="73">
+      <navLabel>
+        <text>Čísi ruka šmátrá ve tmě</text>
+      </navLabel>
+      <content src="Text/cigarety_se_nehladi_077.xhtml#_idParaDest-73"/>
+    </navPoint>
+    <navPoint id="navPoint-74" playOrder="74">
+      <navLabel>
+        <text>Jistě i náznakem</text>
+      </navLabel>
+      <content src="Text/cigarety_se_nehladi_078.xhtml#_idParaDest-74"/>
+    </navPoint>
+    <navPoint id="navPoint-75" playOrder="75">
+      <navLabel>
+        <text>Včera i po letech</text>
+      </navLabel>
+      <content src="Text/cigarety_se_nehladi_079.xhtml#_idParaDest-75"/>
+    </navPoint>
+    <navPoint id="navPoint-76" playOrder="76">
+      <navLabel>
+        <text>Chez Georges</text>
+      </navLabel>
+      <content src="Text/cigarety_se_nehladi_080.xhtml#_idParaDest-76"/>
+    </navPoint>
+    <navPoint id="navPoint-77" playOrder="77">
+      <navLabel>
+        <text>Vše co chceme</text>
+      </navLabel>
+      <content src="Text/cigarety_se_nehladi_081.xhtml#_idParaDest-77"/>
+    </navPoint>
+    <navPoint id="navPoint-78" playOrder="78">
+      <navLabel>
+        <text>I v přírodě lze zaslechnout táhlý nářek saxofonu</text>
+      </navLabel>
+      <content src="Text/cigarety_se_nehladi_082.xhtml#_idParaDest-78"/>
+    </navPoint>
+    <navPoint id="navPoint-79" playOrder="79">
+      <navLabel>
+        <text>Vzpomínka</text>
+      </navLabel>
+      <content src="Text/cigarety_se_nehladi_083.xhtml#_idParaDest-79"/>
+    </navPoint>
+    <navPoint id="navPoint-80" playOrder="80">
+      <navLabel>
+        <text>Události</text>
+      </navLabel>
+      <content src="Text/cigarety_se_nehladi_084.xhtml#_idParaDest-80"/>
+    </navPoint>
+    <navPoint id="navPoint-81" playOrder="81">
+      <navLabel>
+        <text>Pro jednou to stačí</text>
+      </navLabel>
+      <content src="Text/cigarety_se_nehladi_085.xhtml#_idParaDest-81"/>
+    </navPoint>
+    <navPoint id="navPoint-82" playOrder="82">
+      <navLabel>
+        <text>Vyvolávat prsty jménem</text>
+      </navLabel>
+      <content src="Text/cigarety_se_nehladi_086.xhtml#_idParaDest-82"/>
+    </navPoint>
+    <navPoint id="navPoint-83" playOrder="83">
+      <navLabel>
+        <text>Kufry vpravo okna vlevo</text>
+      </navLabel>
+      <content src="Text/cigarety_se_nehladi_087.xhtml#_idParaDest-83"/>
+    </navPoint>
+    <navPoint id="navPoint-84" playOrder="84">
+      <navLabel>
+        <text>Čtyřikrát týdně</text>
+      </navLabel>
+      <content src="Text/cigarety_se_nehladi_088.xhtml#_idParaDest-84"/>
+    </navPoint>
+    <navPoint id="navPoint-85" playOrder="85">
+      <navLabel>
+        <text>Larvy a návraty</text>
+      </navLabel>
+      <content src="Text/cigarety_se_nehladi_089.xhtml#_idParaDest-85"/>
+    </navPoint>
+    <navPoint id="navPoint-86" playOrder="86">
+      <navLabel>
+        <text>Rekonstrukce</text>
+      </navLabel>
+      <content src="Text/cigarety_se_nehladi_090.xhtml#_idParaDest-86"/>
+    </navPoint>
+    <navPoint id="navPoint-87" playOrder="87">
+      <navLabel>
+        <text>Řekne se nůž a je po noži</text>
+      </navLabel>
+      <content src="Text/cigarety_se_nehladi_091.xhtml#_idParaDest-87"/>
+    </navPoint>
+    <navPoint id="navPoint-88" playOrder="88">
+      <navLabel>
+        <text>Několik maličkostí</text>
+      </navLabel>
+      <content src="Text/cigarety_se_nehladi_092.xhtml#_idParaDest-88"/>
+    </navPoint>
+    <navPoint id="navPoint-89" playOrder="89">
+      <navLabel>
+        <text>S kruhy pod očima</text>
+      </navLabel>
+      <content src="Text/cigarety_se_nehladi_093.xhtml#_idParaDest-89"/>
+    </navPoint>
+    <navPoint id="navPoint-90" playOrder="90">
+      <navLabel>
+        <text>Nemusíte se ničeho obávat</text>
+      </navLabel>
+      <content src="Text/cigarety_se_nehladi_094.xhtml#_idParaDest-90"/>
+    </navPoint>
+    <navPoint id="navPoint-91" playOrder="91">
+      <navLabel>
+        <text>Den navíc</text>
+      </navLabel>
+      <content src="Text/cigarety_se_nehladi_095.xhtml#_idParaDest-91"/>
+    </navPoint>
+    <navPoint id="navPoint-92" playOrder="92">
+      <navLabel>
+        <text>Přenášené poselství</text>
+      </navLabel>
+      <content src="Text/cigarety_se_nehladi_096.xhtml#_idParaDest-92"/>
+    </navPoint>
+    <navPoint id="navPoint-93" playOrder="93">
+      <navLabel>
+        <text>Cesty jsou plné barev</text>
+      </navLabel>
+      <content src="Text/cigarety_se_nehladi_097.xhtml#_idParaDest-93"/>
+    </navPoint>
+    <navPoint id="navPoint-94" playOrder="94">
+      <navLabel>
+        <text>Sezóna začala</text>
+      </navLabel>
+      <content src="Text/cigarety_se_nehladi_098.xhtml#_idParaDest-94"/>
+    </navPoint>
+    <navPoint id="navPoint-95" playOrder="95">
+      <navLabel>
+        <text>Zvenčí se domovní dveře navzájem podobaly</text>
+      </navLabel>
+      <content src="Text/cigarety_se_nehladi_099.xhtml#_idParaDest-95"/>
+    </navPoint>
+    <navPoint id="navPoint-96" playOrder="96">
+      <navLabel>
+        <text>Tajemství zůstalo utajeno</text>
+      </navLabel>
+      <content src="Text/cigarety_se_nehladi_100.xhtml#_idParaDest-96"/>
+    </navPoint>
+    <navPoint id="navPoint-97" playOrder="97">
+      <navLabel>
+        <text>Vcházet stárnutím</text>
+      </navLabel>
+      <content src="Text/cigarety_se_nehladi_101.xhtml#_idParaDest-97"/>
+    </navPoint>
+    <navPoint id="navPoint-98" playOrder="98">
+      <navLabel>
+        <text>Oba jen čárou</text>
+      </navLabel>
+      <content src="Text/cigarety_se_nehladi_102.xhtml#_idParaDest-98"/>
+    </navPoint>
+    <navPoint id="navPoint-99" playOrder="99">
+      <navLabel>
+        <text>Rozprostři krajinu po chodníku tmy</text>
+      </navLabel>
+      <content src="Text/cigarety_se_nehladi_103.xhtml#_idParaDest-99"/>
+    </navPoint>
+    <navPoint id="navPoint-100" playOrder="100">
+      <navLabel>
+        <text>Přeskočit moře otírat se kolonádou</text>
+      </navLabel>
+      <content src="Text/cigarety_se_nehladi_104.xhtml#_idParaDest-100"/>
+    </navPoint>
+    <navPoint id="navPoint-101" playOrder="101">
+      <navLabel>
+        <text>Planety se rodí létem</text>
+      </navLabel>
+      <content src="Text/cigarety_se_nehladi_105.xhtml#_idParaDest-101"/>
+    </navPoint>
+    <navPoint id="navPoint-102" playOrder="102">
+      <navLabel>
+        <text>Mao je dnes něco jako biedermeier</text>
+      </navLabel>
+      <content src="Text/cigarety_se_nehladi_106.xhtml#_idParaDest-102"/>
+    </navPoint>
+    <navPoint id="navPoint-103" playOrder="103">
+      <navLabel>
+        <text>Cigarety jsou pusté</text>
+      </navLabel>
+      <content src="Text/cigarety_se_nehladi_107.xhtml#_idParaDest-103"/>
+    </navPoint>
+    <navPoint id="navPoint-104" playOrder="104">
+      <navLabel>
+        <text>Příběhy</text>
+      </navLabel>
+      <content src="Text/cigarety_se_nehladi_108.xhtml#_idParaDest-104"/>
+    </navPoint>
+  </navMap>
+</ncx>
