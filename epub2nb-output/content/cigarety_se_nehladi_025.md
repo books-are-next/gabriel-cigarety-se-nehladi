@@ -1,6 +1,6 @@
 ---
 title: Události
-contentType: prose
+contentType: poetry
 ---
 
 <section>

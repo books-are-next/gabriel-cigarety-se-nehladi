@@ -1,6 +1,6 @@
 ---
 title: Zátiší
-contentType: prose
+contentType: poetry
 ---
 
 <section>

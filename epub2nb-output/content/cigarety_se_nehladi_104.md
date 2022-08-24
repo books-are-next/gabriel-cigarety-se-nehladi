@@ -1,6 +1,6 @@
 ---
 title: Přeskočit moře otírat se kolonádou
-contentType: prose
+contentType: poetry
 ---
 
 <section>

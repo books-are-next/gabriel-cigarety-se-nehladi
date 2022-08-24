@@ -1,0 +1,2251 @@
+{
+  "preview": {
+    "isPreview": false
+  },
+  "title": "Cigarety se nehladí",
+  "author": "Jan Gabriel",
+  "publisher": "Městská knihovna v Praze",
+  "edition": "Poezie",
+  "languageCode": "cs",
+  "root": "main",
+  "identifier": "gabriel-cigarety-se-nehladi-7a18e29",
+  "revision": "7a18e29",
+  "readingOrder": [
+    "promo.html",
+    "cigarety_se_nehladi_005.html",
+    "cigarety_se_nehladi_006.html",
+    "cigarety_se_nehladi_007.html",
+    "cigarety_se_nehladi_008.html",
+    "cigarety_se_nehladi_009.html",
+    "cigarety_se_nehladi_010.html",
+    "cigarety_se_nehladi_011.html",
+    "cigarety_se_nehladi_012.html",
+    "cigarety_se_nehladi_013.html",
+    "cigarety_se_nehladi_014.html",
+    "cigarety_se_nehladi_015.html",
+    "cigarety_se_nehladi_016.html",
+    "cigarety_se_nehladi_017.html",
+    "cigarety_se_nehladi_018.html",
+    "cigarety_se_nehladi_019.html",
+    "cigarety_se_nehladi_020.html",
+    "cigarety_se_nehladi_021.html",
+    "cigarety_se_nehladi_022.html",
+    "cigarety_se_nehladi_023.html",
+    "cigarety_se_nehladi_024.html",
+    "cigarety_se_nehladi_025.html",
+    "cigarety_se_nehladi_026.html",
+    "cigarety_se_nehladi_027.html",
+    "cigarety_se_nehladi_028.html",
+    "cigarety_se_nehladi_029.html",
+    "cigarety_se_nehladi_030.html",
+    "cigarety_se_nehladi_031.html",
+    "cigarety_se_nehladi_032.html",
+    "cigarety_se_nehladi_033.html",
+    "cigarety_se_nehladi_034.html",
+    "cigarety_se_nehladi_035.html",
+    "cigarety_se_nehladi_036.html",
+    "cigarety_se_nehladi_037.html",
+    "cigarety_se_nehladi_038.html",
+    "cigarety_se_nehladi_039.html",
+    "cigarety_se_nehladi_040.html",
+    "cigarety_se_nehladi_041.html",
+    "cigarety_se_nehladi_042.html",
+    "cigarety_se_nehladi_043.html",
+    "cigarety_se_nehladi_044.html",
+    "cigarety_se_nehladi_045.html",
+    "cigarety_se_nehladi_046.html",
+    "cigarety_se_nehladi_047.html",
+    "cigarety_se_nehladi_048.html",
+    "cigarety_se_nehladi_049.html",
+    "cigarety_se_nehladi_050.html",
+    "cigarety_se_nehladi_051.html",
+    "cigarety_se_nehladi_052.html",
+    "cigarety_se_nehladi_053.html",
+    "cigarety_se_nehladi_054.html",
+    "cigarety_se_nehladi_055.html",
+    "cigarety_se_nehladi_056.html",
+    "cigarety_se_nehladi_057.html",
+    "cigarety_se_nehladi_058.html",
+    "cigarety_se_nehladi_059.html",
+    "cigarety_se_nehladi_060.html",
+    "cigarety_se_nehladi_061.html",
+    "cigarety_se_nehladi_062.html",
+    "cigarety_se_nehladi_063.html",
+    "cigarety_se_nehladi_064.html",
+    "cigarety_se_nehladi_065.html",
+    "cigarety_se_nehladi_066.html",
+    "cigarety_se_nehladi_067.html",
+    "cigarety_se_nehladi_068.html",
+    "cigarety_se_nehladi_069.html",
+    "cigarety_se_nehladi_070.html",
+    "cigarety_se_nehladi_071.html",
+    "cigarety_se_nehladi_072.html",
+    "cigarety_se_nehladi_073.html",
+    "cigarety_se_nehladi_074.html",
+    "cigarety_se_nehladi_075.html",
+    "cigarety_se_nehladi_076.html",
+    "cigarety_se_nehladi_077.html",
+    "cigarety_se_nehladi_078.html",
+    "cigarety_se_nehladi_079.html",
+    "cigarety_se_nehladi_080.html",
+    "cigarety_se_nehladi_081.html",
+    "cigarety_se_nehladi_082.html",
+    "cigarety_se_nehladi_083.html",
+    "cigarety_se_nehladi_084.html",
+    "cigarety_se_nehladi_085.html",
+    "cigarety_se_nehladi_086.html",
+    "cigarety_se_nehladi_087.html",
+    "cigarety_se_nehladi_088.html",
+    "cigarety_se_nehladi_089.html",
+    "cigarety_se_nehladi_090.html",
+    "cigarety_se_nehladi_091.html",
+    "cigarety_se_nehladi_092.html",
+    "cigarety_se_nehladi_093.html",
+    "cigarety_se_nehladi_094.html",
+    "cigarety_se_nehladi_095.html",
+    "cigarety_se_nehladi_096.html",
+    "cigarety_se_nehladi_097.html",
+    "cigarety_se_nehladi_098.html",
+    "cigarety_se_nehladi_099.html",
+    "cigarety_se_nehladi_100.html",
+    "cigarety_se_nehladi_101.html",
+    "cigarety_se_nehladi_102.html",
+    "cigarety_se_nehladi_103.html",
+    "cigarety_se_nehladi_104.html",
+    "cigarety_se_nehladi_105.html",
+    "cigarety_se_nehladi_106.html",
+    "cigarety_se_nehladi_107.html",
+    "cigarety_se_nehladi_108.html",
+    "about.html"
+  ],
+  "generatedAt": {
+    "date": "Wed Aug 24 2022 07:35:32 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1661326532912
+  },
+  "documents": [
+    {
+      "title": "Městská knihovna v Praze",
+      "file": "promo.html",
+      "words": 0,
+      "chars": 0,
+      "ideas": 0,
+      "role": "chapter",
+      "order": 0,
+      "prev": null,
+      "next": "cigarety_se_nehladi_005.html",
+      "toc": []
+    },
+    {
+      "title": "Denní zprávy",
+      "file": "cigarety_se_nehladi_005.html",
+      "words": 46,
+      "chars": 276,
+      "ideas": 12,
+      "role": "chapter",
+      "order": 1,
+      "prev": "promo.html",
+      "next": "cigarety_se_nehladi_006.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Denní zprávy",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Odposlechy",
+      "file": "cigarety_se_nehladi_006.html",
+      "words": 13,
+      "chars": 91,
+      "ideas": 5,
+      "role": "chapter",
+      "order": 2,
+      "prev": "cigarety_se_nehladi_005.html",
+      "next": "cigarety_se_nehladi_007.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Odposlechy",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Řeznictví na konci světa",
+      "file": "cigarety_se_nehladi_007.html",
+      "words": 37,
+      "chars": 222,
+      "ideas": 9,
+      "role": "chapter",
+      "order": 3,
+      "prev": "cigarety_se_nehladi_006.html",
+      "next": "cigarety_se_nehladi_008.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Řeznictví na konci světa",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Zastavení 1",
+      "file": "cigarety_se_nehladi_008.html",
+      "words": 59,
+      "chars": 352,
+      "ideas": 11,
+      "role": "chapter",
+      "order": 4,
+      "prev": "cigarety_se_nehladi_007.html",
+      "next": "cigarety_se_nehladi_009.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Zastavení 1",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Zastavení 2",
+      "file": "cigarety_se_nehladi_009.html",
+      "words": 59,
+      "chars": 347,
+      "ideas": 13,
+      "role": "chapter",
+      "order": 5,
+      "prev": "cigarety_se_nehladi_008.html",
+      "next": "cigarety_se_nehladi_010.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Zastavení 2",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "* * *",
+      "file": "cigarety_se_nehladi_010.html",
+      "words": 77,
+      "chars": 436,
+      "ideas": 20,
+      "role": "chapter",
+      "order": 6,
+      "prev": "cigarety_se_nehladi_009.html",
+      "next": "cigarety_se_nehladi_011.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "* * *",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Kavárna",
+      "file": "cigarety_se_nehladi_011.html",
+      "words": 78,
+      "chars": 455,
+      "ideas": 20,
+      "role": "chapter",
+      "order": 7,
+      "prev": "cigarety_se_nehladi_010.html",
+      "next": "cigarety_se_nehladi_012.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Kavárna",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "* * *",
+      "file": "cigarety_se_nehladi_012.html",
+      "words": 22,
+      "chars": 104,
+      "ideas": 6,
+      "role": "chapter",
+      "order": 8,
+      "prev": "cigarety_se_nehladi_011.html",
+      "next": "cigarety_se_nehladi_013.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "* * *",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Ve skleněnce",
+      "file": "cigarety_se_nehladi_013.html",
+      "words": 46,
+      "chars": 255,
+      "ideas": 9,
+      "role": "chapter",
+      "order": 9,
+      "prev": "cigarety_se_nehladi_012.html",
+      "next": "cigarety_se_nehladi_014.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Ve skleněnce",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "* * *",
+      "file": "cigarety_se_nehladi_014.html",
+      "words": 66,
+      "chars": 418,
+      "ideas": 15,
+      "role": "chapter",
+      "order": 10,
+      "prev": "cigarety_se_nehladi_013.html",
+      "next": "cigarety_se_nehladi_015.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "* * *",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Jdeme Karlínem",
+      "file": "cigarety_se_nehladi_015.html",
+      "words": 64,
+      "chars": 376,
+      "ideas": 12,
+      "role": "chapter",
+      "order": 11,
+      "prev": "cigarety_se_nehladi_014.html",
+      "next": "cigarety_se_nehladi_016.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Jdeme Karlínem",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Ve čtvrtek",
+      "file": "cigarety_se_nehladi_016.html",
+      "words": 80,
+      "chars": 455,
+      "ideas": 14,
+      "role": "chapter",
+      "order": 12,
+      "prev": "cigarety_se_nehladi_015.html",
+      "next": "cigarety_se_nehladi_017.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Ve čtvrtek",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Zapomnění",
+      "file": "cigarety_se_nehladi_017.html",
+      "words": 74,
+      "chars": 426,
+      "ideas": 15,
+      "role": "chapter",
+      "order": 13,
+      "prev": "cigarety_se_nehladi_016.html",
+      "next": "cigarety_se_nehladi_018.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Zapomnění",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Jen jméno",
+      "file": "cigarety_se_nehladi_018.html",
+      "words": 121,
+      "chars": 713,
+      "ideas": 23,
+      "role": "chapter",
+      "order": 14,
+      "prev": "cigarety_se_nehladi_017.html",
+      "next": "cigarety_se_nehladi_019.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Jen jméno",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "* * *",
+      "file": "cigarety_se_nehladi_019.html",
+      "words": 41,
+      "chars": 233,
+      "ideas": 11,
+      "role": "chapter",
+      "order": 15,
+      "prev": "cigarety_se_nehladi_018.html",
+      "next": "cigarety_se_nehladi_020.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "* * *",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "* * *",
+      "file": "cigarety_se_nehladi_020.html",
+      "words": 90,
+      "chars": 489,
+      "ideas": 17,
+      "role": "chapter",
+      "order": 16,
+      "prev": "cigarety_se_nehladi_019.html",
+      "next": "cigarety_se_nehladi_021.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "* * *",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Burza",
+      "file": "cigarety_se_nehladi_021.html",
+      "words": 87,
+      "chars": 487,
+      "ideas": 19,
+      "role": "chapter",
+      "order": 17,
+      "prev": "cigarety_se_nehladi_020.html",
+      "next": "cigarety_se_nehladi_022.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Burza",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "* * *",
+      "file": "cigarety_se_nehladi_022.html",
+      "words": 65,
+      "chars": 382,
+      "ideas": 16,
+      "role": "chapter",
+      "order": 18,
+      "prev": "cigarety_se_nehladi_021.html",
+      "next": "cigarety_se_nehladi_023.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "* * *",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Lázně a návraty",
+      "file": "cigarety_se_nehladi_023.html",
+      "words": 75,
+      "chars": 491,
+      "ideas": 15,
+      "role": "chapter",
+      "order": 19,
+      "prev": "cigarety_se_nehladi_022.html",
+      "next": "cigarety_se_nehladi_024.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Lázně a návraty",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "* * *",
+      "file": "cigarety_se_nehladi_024.html",
+      "words": 35,
+      "chars": 217,
+      "ideas": 8,
+      "role": "chapter",
+      "order": 20,
+      "prev": "cigarety_se_nehladi_023.html",
+      "next": "cigarety_se_nehladi_025.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "* * *",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Události",
+      "file": "cigarety_se_nehladi_025.html",
+      "words": 47,
+      "chars": 288,
+      "ideas": 13,
+      "role": "chapter",
+      "order": 21,
+      "prev": "cigarety_se_nehladi_024.html",
+      "next": "cigarety_se_nehladi_026.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Události",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Studium perštiny",
+      "file": "cigarety_se_nehladi_026.html",
+      "words": 100,
+      "chars": 555,
+      "ideas": 20,
+      "role": "chapter",
+      "order": 22,
+      "prev": "cigarety_se_nehladi_025.html",
+      "next": "cigarety_se_nehladi_027.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Studium perštiny",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "* * *",
+      "file": "cigarety_se_nehladi_027.html",
+      "words": 13,
+      "chars": 53,
+      "ideas": 2,
+      "role": "chapter",
+      "order": 23,
+      "prev": "cigarety_se_nehladi_026.html",
+      "next": "cigarety_se_nehladi_028.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "* * *",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Z ruky do ruky",
+      "file": "cigarety_se_nehladi_028.html",
+      "words": 113,
+      "chars": 634,
+      "ideas": 22,
+      "role": "chapter",
+      "order": 24,
+      "prev": "cigarety_se_nehladi_027.html",
+      "next": "cigarety_se_nehladi_029.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Z ruky do ruky",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "* * *",
+      "file": "cigarety_se_nehladi_029.html",
+      "words": 141,
+      "chars": 780,
+      "ideas": 26,
+      "role": "chapter",
+      "order": 25,
+      "prev": "cigarety_se_nehladi_028.html",
+      "next": "cigarety_se_nehladi_030.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "* * *",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Zprávy II",
+      "file": "cigarety_se_nehladi_030.html",
+      "words": 158,
+      "chars": 931,
+      "ideas": 44,
+      "role": "chapter",
+      "order": 26,
+      "prev": "cigarety_se_nehladi_029.html",
+      "next": "cigarety_se_nehladi_031.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Zprávy II",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Kavárna bez křídel",
+      "file": "cigarety_se_nehladi_031.html",
+      "words": 95,
+      "chars": 527,
+      "ideas": 18,
+      "role": "chapter",
+      "order": 27,
+      "prev": "cigarety_se_nehladi_030.html",
+      "next": "cigarety_se_nehladi_032.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Kavárna bez křídel",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "* * *",
+      "file": "cigarety_se_nehladi_032.html",
+      "words": 23,
+      "chars": 114,
+      "ideas": 6,
+      "role": "chapter",
+      "order": 28,
+      "prev": "cigarety_se_nehladi_031.html",
+      "next": "cigarety_se_nehladi_033.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "* * *",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "* * *",
+      "file": "cigarety_se_nehladi_033.html",
+      "words": 30,
+      "chars": 143,
+      "ideas": 5,
+      "role": "chapter",
+      "order": 29,
+      "prev": "cigarety_se_nehladi_032.html",
+      "next": "cigarety_se_nehladi_034.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "* * *",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Všude kolem jsou prý lidé",
+      "file": "cigarety_se_nehladi_034.html",
+      "words": 160,
+      "chars": 888,
+      "ideas": 37,
+      "role": "chapter",
+      "order": 30,
+      "prev": "cigarety_se_nehladi_033.html",
+      "next": "cigarety_se_nehladi_035.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Všude kolem jsou prý lidé",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Ještě několik let",
+      "file": "cigarety_se_nehladi_035.html",
+      "words": 96,
+      "chars": 535,
+      "ideas": 20,
+      "role": "chapter",
+      "order": 31,
+      "prev": "cigarety_se_nehladi_034.html",
+      "next": "cigarety_se_nehladi_036.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Ještě několik let",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Pohlednice z Tibetu",
+      "file": "cigarety_se_nehladi_036.html",
+      "words": 101,
+      "chars": 585,
+      "ideas": 17,
+      "role": "chapter",
+      "order": 32,
+      "prev": "cigarety_se_nehladi_035.html",
+      "next": "cigarety_se_nehladi_037.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Pohlednice z Tibetu",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Lovení v lese",
+      "file": "cigarety_se_nehladi_037.html",
+      "words": 107,
+      "chars": 666,
+      "ideas": 23,
+      "role": "chapter",
+      "order": 33,
+      "prev": "cigarety_se_nehladi_036.html",
+      "next": "cigarety_se_nehladi_038.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Lovení v lese",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Cigaretové papírky: Olšany",
+      "file": "cigarety_se_nehladi_038.html",
+      "words": 122,
+      "chars": 698,
+      "ideas": 24,
+      "role": "chapter",
+      "order": 34,
+      "prev": "cigarety_se_nehladi_037.html",
+      "next": "cigarety_se_nehladi_039.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Cigaretové papírky: Olšany",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Laser: jak tu leží a běží",
+      "file": "cigarety_se_nehladi_039.html",
+      "words": 118,
+      "chars": 688,
+      "ideas": 25,
+      "role": "chapter",
+      "order": 35,
+      "prev": "cigarety_se_nehladi_038.html",
+      "next": "cigarety_se_nehladi_040.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Laser: jak tu leží a běží",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "* * *",
+      "file": "cigarety_se_nehladi_040.html",
+      "words": 86,
+      "chars": 445,
+      "ideas": 19,
+      "role": "chapter",
+      "order": 36,
+      "prev": "cigarety_se_nehladi_039.html",
+      "next": "cigarety_se_nehladi_041.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "* * *",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Za zdí",
+      "file": "cigarety_se_nehladi_041.html",
+      "words": 67,
+      "chars": 387,
+      "ideas": 14,
+      "role": "chapter",
+      "order": 37,
+      "prev": "cigarety_se_nehladi_040.html",
+      "next": "cigarety_se_nehladi_042.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Za zdí",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Vzpomínka na nároží",
+      "file": "cigarety_se_nehladi_042.html",
+      "words": 142,
+      "chars": 846,
+      "ideas": 27,
+      "role": "chapter",
+      "order": 38,
+      "prev": "cigarety_se_nehladi_041.html",
+      "next": "cigarety_se_nehladi_043.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Vzpomínka na nároží",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Na prodej",
+      "file": "cigarety_se_nehladi_043.html",
+      "words": 48,
+      "chars": 308,
+      "ideas": 13,
+      "role": "chapter",
+      "order": 39,
+      "prev": "cigarety_se_nehladi_042.html",
+      "next": "cigarety_se_nehladi_044.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Na prodej",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Bez jediné vady",
+      "file": "cigarety_se_nehladi_044.html",
+      "words": 92,
+      "chars": 503,
+      "ideas": 18,
+      "role": "chapter",
+      "order": 40,
+      "prev": "cigarety_se_nehladi_043.html",
+      "next": "cigarety_se_nehladi_045.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Bez jediné vady",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Příroda pod střechou",
+      "file": "cigarety_se_nehladi_045.html",
+      "words": 57,
+      "chars": 370,
+      "ideas": 13,
+      "role": "chapter",
+      "order": 41,
+      "prev": "cigarety_se_nehladi_044.html",
+      "next": "cigarety_se_nehladi_046.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Příroda pod střechou",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Pařížské obrazy",
+      "file": "cigarety_se_nehladi_046.html",
+      "words": 275,
+      "chars": 1842,
+      "ideas": 23,
+      "role": "chapter",
+      "order": 42,
+      "prev": "cigarety_se_nehladi_045.html",
+      "next": "cigarety_se_nehladi_047.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Pařížské obrazy",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Bloudění a střechy",
+      "file": "cigarety_se_nehladi_047.html",
+      "words": 118,
+      "chars": 697,
+      "ideas": 22,
+      "role": "chapter",
+      "order": 43,
+      "prev": "cigarety_se_nehladi_046.html",
+      "next": "cigarety_se_nehladi_048.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Bloudění a střechy",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Každý sám za sebe",
+      "file": "cigarety_se_nehladi_048.html",
+      "words": 93,
+      "chars": 599,
+      "ideas": 20,
+      "role": "chapter",
+      "order": 44,
+      "prev": "cigarety_se_nehladi_047.html",
+      "next": "cigarety_se_nehladi_049.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Každý sám za sebe",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Zátiší",
+      "file": "cigarety_se_nehladi_049.html",
+      "words": 111,
+      "chars": 694,
+      "ideas": 25,
+      "role": "chapter",
+      "order": 45,
+      "prev": "cigarety_se_nehladi_048.html",
+      "next": "cigarety_se_nehladi_050.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Zátiší",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Přiznání",
+      "file": "cigarety_se_nehladi_050.html",
+      "words": 63,
+      "chars": 374,
+      "ideas": 20,
+      "role": "chapter",
+      "order": 46,
+      "prev": "cigarety_se_nehladi_049.html",
+      "next": "cigarety_se_nehladi_051.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Přiznání",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Ty zkoušky jsem naštěstí neudělal",
+      "file": "cigarety_se_nehladi_051.html",
+      "words": 109,
+      "chars": 623,
+      "ideas": 24,
+      "role": "chapter",
+      "order": 47,
+      "prev": "cigarety_se_nehladi_050.html",
+      "next": "cigarety_se_nehladi_052.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Ty zkoušky jsem naštěstí neudělal",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Proměny",
+      "file": "cigarety_se_nehladi_052.html",
+      "words": 89,
+      "chars": 510,
+      "ideas": 18,
+      "role": "chapter",
+      "order": 48,
+      "prev": "cigarety_se_nehladi_051.html",
+      "next": "cigarety_se_nehladi_053.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Proměny",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Na cestě",
+      "file": "cigarety_se_nehladi_053.html",
+      "words": 141,
+      "chars": 804,
+      "ideas": 34,
+      "role": "chapter",
+      "order": 49,
+      "prev": "cigarety_se_nehladi_052.html",
+      "next": "cigarety_se_nehladi_054.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Na cestě",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "* * *",
+      "file": "cigarety_se_nehladi_054.html",
+      "words": 104,
+      "chars": 574,
+      "ideas": 21,
+      "role": "chapter",
+      "order": 50,
+      "prev": "cigarety_se_nehladi_053.html",
+      "next": "cigarety_se_nehladi_055.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "* * *",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Nemožné objekty",
+      "file": "cigarety_se_nehladi_055.html",
+      "words": 88,
+      "chars": 562,
+      "ideas": 16,
+      "role": "chapter",
+      "order": 51,
+      "prev": "cigarety_se_nehladi_054.html",
+      "next": "cigarety_se_nehladi_056.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Nemožné objekty",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Ve místě i v přírodě",
+      "file": "cigarety_se_nehladi_056.html",
+      "words": 72,
+      "chars": 442,
+      "ideas": 15,
+      "role": "chapter",
+      "order": 52,
+      "prev": "cigarety_se_nehladi_055.html",
+      "next": "cigarety_se_nehladi_057.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Ve místě i v přírodě",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "* * *",
+      "file": "cigarety_se_nehladi_057.html",
+      "words": 10,
+      "chars": 49,
+      "ideas": 5,
+      "role": "chapter",
+      "order": 53,
+      "prev": "cigarety_se_nehladi_056.html",
+      "next": "cigarety_se_nehladi_058.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "* * *",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Zůstaly jen nápisy",
+      "file": "cigarety_se_nehladi_058.html",
+      "words": 94,
+      "chars": 577,
+      "ideas": 19,
+      "role": "chapter",
+      "order": 54,
+      "prev": "cigarety_se_nehladi_057.html",
+      "next": "cigarety_se_nehladi_059.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Zůstaly jen nápisy",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Rozhledy",
+      "file": "cigarety_se_nehladi_059.html",
+      "words": 95,
+      "chars": 553,
+      "ideas": 19,
+      "role": "chapter",
+      "order": 55,
+      "prev": "cigarety_se_nehladi_058.html",
+      "next": "cigarety_se_nehladi_060.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Rozhledy",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "* * *",
+      "file": "cigarety_se_nehladi_060.html",
+      "words": 63,
+      "chars": 369,
+      "ideas": 14,
+      "role": "chapter",
+      "order": 56,
+      "prev": "cigarety_se_nehladi_059.html",
+      "next": "cigarety_se_nehladi_061.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "* * *",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "* * *",
+      "file": "cigarety_se_nehladi_061.html",
+      "words": 63,
+      "chars": 347,
+      "ideas": 12,
+      "role": "chapter",
+      "order": 57,
+      "prev": "cigarety_se_nehladi_060.html",
+      "next": "cigarety_se_nehladi_062.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "* * *",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Proměny",
+      "file": "cigarety_se_nehladi_062.html",
+      "words": 60,
+      "chars": 333,
+      "ideas": 12,
+      "role": "chapter",
+      "order": 58,
+      "prev": "cigarety_se_nehladi_061.html",
+      "next": "cigarety_se_nehladi_063.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Proměny",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "První chvíle",
+      "file": "cigarety_se_nehladi_063.html",
+      "words": 102,
+      "chars": 604,
+      "ideas": 21,
+      "role": "chapter",
+      "order": 59,
+      "prev": "cigarety_se_nehladi_062.html",
+      "next": "cigarety_se_nehladi_064.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "První chvíle",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "* * *",
+      "file": "cigarety_se_nehladi_064.html",
+      "words": 91,
+      "chars": 525,
+      "ideas": 19,
+      "role": "chapter",
+      "order": 60,
+      "prev": "cigarety_se_nehladi_063.html",
+      "next": "cigarety_se_nehladi_065.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "* * *",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Volný pád",
+      "file": "cigarety_se_nehladi_065.html",
+      "words": 114,
+      "chars": 657,
+      "ideas": 23,
+      "role": "chapter",
+      "order": 61,
+      "prev": "cigarety_se_nehladi_064.html",
+      "next": "cigarety_se_nehladi_066.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Volný pád",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Ohlédnutí",
+      "file": "cigarety_se_nehladi_066.html",
+      "words": 103,
+      "chars": 603,
+      "ideas": 31,
+      "role": "chapter",
+      "order": 62,
+      "prev": "cigarety_se_nehladi_065.html",
+      "next": "cigarety_se_nehladi_067.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Ohlédnutí",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Bydliště",
+      "file": "cigarety_se_nehladi_067.html",
+      "words": 135,
+      "chars": 806,
+      "ideas": 28,
+      "role": "chapter",
+      "order": 63,
+      "prev": "cigarety_se_nehladi_066.html",
+      "next": "cigarety_se_nehladi_068.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Bydliště",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "* * *",
+      "file": "cigarety_se_nehladi_068.html",
+      "words": 43,
+      "chars": 247,
+      "ideas": 12,
+      "role": "chapter",
+      "order": 64,
+      "prev": "cigarety_se_nehladi_067.html",
+      "next": "cigarety_se_nehladi_069.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "* * *",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Kolemjdoucí města",
+      "file": "cigarety_se_nehladi_069.html",
+      "words": 99,
+      "chars": 576,
+      "ideas": 20,
+      "role": "chapter",
+      "order": 65,
+      "prev": "cigarety_se_nehladi_068.html",
+      "next": "cigarety_se_nehladi_070.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Kolemjdoucí města",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "* * *",
+      "file": "cigarety_se_nehladi_070.html",
+      "words": 26,
+      "chars": 150,
+      "ideas": 7,
+      "role": "chapter",
+      "order": 66,
+      "prev": "cigarety_se_nehladi_069.html",
+      "next": "cigarety_se_nehladi_071.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "* * *",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Námluvy",
+      "file": "cigarety_se_nehladi_071.html",
+      "words": 67,
+      "chars": 384,
+      "ideas": 26,
+      "role": "chapter",
+      "order": 67,
+      "prev": "cigarety_se_nehladi_070.html",
+      "next": "cigarety_se_nehladi_072.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Námluvy",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Kdykoli",
+      "file": "cigarety_se_nehladi_072.html",
+      "words": 41,
+      "chars": 247,
+      "ideas": 10,
+      "role": "chapter",
+      "order": 68,
+      "prev": "cigarety_se_nehladi_071.html",
+      "next": "cigarety_se_nehladi_073.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Kdykoli",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "* * *",
+      "file": "cigarety_se_nehladi_073.html",
+      "words": 56,
+      "chars": 306,
+      "ideas": 16,
+      "role": "chapter",
+      "order": 69,
+      "prev": "cigarety_se_nehladi_072.html",
+      "next": "cigarety_se_nehladi_074.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "* * *",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Tam a zpět",
+      "file": "cigarety_se_nehladi_074.html",
+      "words": 200,
+      "chars": 1346,
+      "ideas": 46,
+      "role": "chapter",
+      "order": 70,
+      "prev": "cigarety_se_nehladi_073.html",
+      "next": "cigarety_se_nehladi_075.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Tam a zpět",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "* * *",
+      "file": "cigarety_se_nehladi_075.html",
+      "words": 44,
+      "chars": 275,
+      "ideas": 12,
+      "role": "chapter",
+      "order": 71,
+      "prev": "cigarety_se_nehladi_074.html",
+      "next": "cigarety_se_nehladi_076.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "* * *",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "By night",
+      "file": "cigarety_se_nehladi_076.html",
+      "words": 91,
+      "chars": 570,
+      "ideas": 21,
+      "role": "chapter",
+      "order": 72,
+      "prev": "cigarety_se_nehladi_075.html",
+      "next": "cigarety_se_nehladi_077.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "By night",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "* * *",
+      "file": "cigarety_se_nehladi_077.html",
+      "words": 99,
+      "chars": 539,
+      "ideas": 21,
+      "role": "chapter",
+      "order": 73,
+      "prev": "cigarety_se_nehladi_076.html",
+      "next": "cigarety_se_nehladi_078.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "* * *",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "* * *",
+      "file": "cigarety_se_nehladi_078.html",
+      "words": 46,
+      "chars": 260,
+      "ideas": 12,
+      "role": "chapter",
+      "order": 74,
+      "prev": "cigarety_se_nehladi_077.html",
+      "next": "cigarety_se_nehladi_079.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "* * *",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Včera i po letech",
+      "file": "cigarety_se_nehladi_079.html",
+      "words": 129,
+      "chars": 760,
+      "ideas": 23,
+      "role": "chapter",
+      "order": 75,
+      "prev": "cigarety_se_nehladi_078.html",
+      "next": "cigarety_se_nehladi_080.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Včera i po letech",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Chez Georges",
+      "file": "cigarety_se_nehladi_080.html",
+      "words": 137,
+      "chars": 839,
+      "ideas": 29,
+      "role": "chapter",
+      "order": 76,
+      "prev": "cigarety_se_nehladi_079.html",
+      "next": "cigarety_se_nehladi_081.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Chez Georges",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Vše co chceme",
+      "file": "cigarety_se_nehladi_081.html",
+      "words": 40,
+      "chars": 237,
+      "ideas": 14,
+      "role": "chapter",
+      "order": 77,
+      "prev": "cigarety_se_nehladi_080.html",
+      "next": "cigarety_se_nehladi_082.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Vše co chceme",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "* * *",
+      "file": "cigarety_se_nehladi_082.html",
+      "words": 44,
+      "chars": 231,
+      "ideas": 12,
+      "role": "chapter",
+      "order": 78,
+      "prev": "cigarety_se_nehladi_081.html",
+      "next": "cigarety_se_nehladi_083.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "* * *",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Vzpomínka",
+      "file": "cigarety_se_nehladi_083.html",
+      "words": 80,
+      "chars": 501,
+      "ideas": 18,
+      "role": "chapter",
+      "order": 79,
+      "prev": "cigarety_se_nehladi_082.html",
+      "next": "cigarety_se_nehladi_084.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Vzpomínka",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Události",
+      "file": "cigarety_se_nehladi_084.html",
+      "words": 95,
+      "chars": 598,
+      "ideas": 22,
+      "role": "chapter",
+      "order": 80,
+      "prev": "cigarety_se_nehladi_083.html",
+      "next": "cigarety_se_nehladi_085.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Události",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Pro jednou to stačí",
+      "file": "cigarety_se_nehladi_085.html",
+      "words": 66,
+      "chars": 416,
+      "ideas": 13,
+      "role": "chapter",
+      "order": 81,
+      "prev": "cigarety_se_nehladi_084.html",
+      "next": "cigarety_se_nehladi_086.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Pro jednou to stačí",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "* * *",
+      "file": "cigarety_se_nehladi_086.html",
+      "words": 36,
+      "chars": 194,
+      "ideas": 10,
+      "role": "chapter",
+      "order": 82,
+      "prev": "cigarety_se_nehladi_085.html",
+      "next": "cigarety_se_nehladi_087.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "* * *",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Kufry vpravo okna vlevo",
+      "file": "cigarety_se_nehladi_087.html",
+      "words": 83,
+      "chars": 477,
+      "ideas": 19,
+      "role": "chapter",
+      "order": 83,
+      "prev": "cigarety_se_nehladi_086.html",
+      "next": "cigarety_se_nehladi_088.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Kufry vpravo okna vlevo",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Čtyřikrát týdně",
+      "file": "cigarety_se_nehladi_088.html",
+      "words": 78,
+      "chars": 420,
+      "ideas": 18,
+      "role": "chapter",
+      "order": 84,
+      "prev": "cigarety_se_nehladi_087.html",
+      "next": "cigarety_se_nehladi_089.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Čtyřikrát týdně",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Larvy a návraty",
+      "file": "cigarety_se_nehladi_089.html",
+      "words": 118,
+      "chars": 677,
+      "ideas": 22,
+      "role": "chapter",
+      "order": 85,
+      "prev": "cigarety_se_nehladi_088.html",
+      "next": "cigarety_se_nehladi_090.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Larvy a návraty",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Rekonstrukce",
+      "file": "cigarety_se_nehladi_090.html",
+      "words": 103,
+      "chars": 620,
+      "ideas": 21,
+      "role": "chapter",
+      "order": 86,
+      "prev": "cigarety_se_nehladi_089.html",
+      "next": "cigarety_se_nehladi_091.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Rekonstrukce",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "* * *",
+      "file": "cigarety_se_nehladi_091.html",
+      "words": 63,
+      "chars": 354,
+      "ideas": 13,
+      "role": "chapter",
+      "order": 87,
+      "prev": "cigarety_se_nehladi_090.html",
+      "next": "cigarety_se_nehladi_092.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "* * *",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Několik maličkostí",
+      "file": "cigarety_se_nehladi_092.html",
+      "words": 103,
+      "chars": 630,
+      "ideas": 20,
+      "role": "chapter",
+      "order": 88,
+      "prev": "cigarety_se_nehladi_091.html",
+      "next": "cigarety_se_nehladi_093.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Několik maličkostí",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "* * *",
+      "file": "cigarety_se_nehladi_093.html",
+      "words": 28,
+      "chars": 142,
+      "ideas": 9,
+      "role": "chapter",
+      "order": 89,
+      "prev": "cigarety_se_nehladi_092.html",
+      "next": "cigarety_se_nehladi_094.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "* * *",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "* * *",
+      "file": "cigarety_se_nehladi_094.html",
+      "words": 75,
+      "chars": 447,
+      "ideas": 17,
+      "role": "chapter",
+      "order": 90,
+      "prev": "cigarety_se_nehladi_093.html",
+      "next": "cigarety_se_nehladi_095.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "* * *",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Den navíc",
+      "file": "cigarety_se_nehladi_095.html",
+      "words": 105,
+      "chars": 661,
+      "ideas": 23,
+      "role": "chapter",
+      "order": 91,
+      "prev": "cigarety_se_nehladi_094.html",
+      "next": "cigarety_se_nehladi_096.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Den navíc",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Přenášené poselství",
+      "file": "cigarety_se_nehladi_096.html",
+      "words": 131,
+      "chars": 827,
+      "ideas": 24,
+      "role": "chapter",
+      "order": 92,
+      "prev": "cigarety_se_nehladi_095.html",
+      "next": "cigarety_se_nehladi_097.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Přenášené poselství",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "* * *",
+      "file": "cigarety_se_nehladi_097.html",
+      "words": 37,
+      "chars": 202,
+      "ideas": 9,
+      "role": "chapter",
+      "order": 93,
+      "prev": "cigarety_se_nehladi_096.html",
+      "next": "cigarety_se_nehladi_098.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "* * *",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "* * *",
+      "file": "cigarety_se_nehladi_098.html",
+      "words": 42,
+      "chars": 251,
+      "ideas": 15,
+      "role": "chapter",
+      "order": 94,
+      "prev": "cigarety_se_nehladi_097.html",
+      "next": "cigarety_se_nehladi_099.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "* * *",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "* * *",
+      "file": "cigarety_se_nehladi_099.html",
+      "words": 29,
+      "chars": 173,
+      "ideas": 6,
+      "role": "chapter",
+      "order": 95,
+      "prev": "cigarety_se_nehladi_098.html",
+      "next": "cigarety_se_nehladi_100.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "* * *",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Tajemství zůstalo utajeno",
+      "file": "cigarety_se_nehladi_100.html",
+      "words": 68,
+      "chars": 428,
+      "ideas": 15,
+      "role": "chapter",
+      "order": 96,
+      "prev": "cigarety_se_nehladi_099.html",
+      "next": "cigarety_se_nehladi_101.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Tajemství zůstalo utajeno",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "* * *",
+      "file": "cigarety_se_nehladi_101.html",
+      "words": 23,
+      "chars": 138,
+      "ideas": 7,
+      "role": "chapter",
+      "order": 97,
+      "prev": "cigarety_se_nehladi_100.html",
+      "next": "cigarety_se_nehladi_102.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "* * *",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "* * *",
+      "file": "cigarety_se_nehladi_102.html",
+      "words": 19,
+      "chars": 88,
+      "ideas": 7,
+      "role": "chapter",
+      "order": 98,
+      "prev": "cigarety_se_nehladi_101.html",
+      "next": "cigarety_se_nehladi_103.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "* * *",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "* * *",
+      "file": "cigarety_se_nehladi_103.html",
+      "words": 49,
+      "chars": 267,
+      "ideas": 8,
+      "role": "chapter",
+      "order": 99,
+      "prev": "cigarety_se_nehladi_102.html",
+      "next": "cigarety_se_nehladi_104.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "* * *",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Přeskočit moře otírat se kolonádou",
+      "file": "cigarety_se_nehladi_104.html",
+      "words": 101,
+      "chars": 578,
+      "ideas": 19,
+      "role": "chapter",
+      "order": 100,
+      "prev": "cigarety_se_nehladi_103.html",
+      "next": "cigarety_se_nehladi_105.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Přeskočit moře otírat se kolonádou",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Planety se rodí létem",
+      "file": "cigarety_se_nehladi_105.html",
+      "words": 101,
+      "chars": 567,
+      "ideas": 22,
+      "role": "chapter",
+      "order": 101,
+      "prev": "cigarety_se_nehladi_104.html",
+      "next": "cigarety_se_nehladi_106.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Planety se rodí létem",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "* * *",
+      "file": "cigarety_se_nehladi_106.html",
+      "words": 66,
+      "chars": 375,
+      "ideas": 13,
+      "role": "chapter",
+      "order": 102,
+      "prev": "cigarety_se_nehladi_105.html",
+      "next": "cigarety_se_nehladi_107.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "* * *",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "* * *",
+      "file": "cigarety_se_nehladi_107.html",
+      "words": 23,
+      "chars": 115,
+      "ideas": 7,
+      "role": "chapter",
+      "order": 103,
+      "prev": "cigarety_se_nehladi_106.html",
+      "next": "cigarety_se_nehladi_108.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "* * *",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Příběhy",
+      "file": "cigarety_se_nehladi_108.html",
+      "words": 99,
+      "chars": 660,
+      "ideas": 2,
+      "role": "chapter",
+      "order": 104,
+      "prev": "cigarety_se_nehladi_107.html",
+      "next": "about.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Příběhy",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Tiráž",
+      "file": "about.html",
+      "words": 136,
+      "chars": 880,
+      "ideas": 16,
+      "role": "about",
+      "order": null,
+      "prev": "cigarety_se_nehladi_108.html",
+      "next": null,
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Tiráž",
+          "id": null,
+          "children": []
+        }
+      ]
+    }
+  ],
+  "totals": {
+    "all": {
+      "words": 8470,
+      "chars": 50005,
+      "ideas": 1797
+    },
+    "chapters": {
+      "words": 8327,
+      "chars": 49086,
+      "ideas": 1777
+    }
+  }
+}

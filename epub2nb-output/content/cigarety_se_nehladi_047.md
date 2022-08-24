@@ -1,6 +1,6 @@
 ---
 title: "Bloudění a\_střechy"
-contentType: prose
+contentType: poetry
 ---
 
 <section>

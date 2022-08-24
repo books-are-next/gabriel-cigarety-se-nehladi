@@ -1,6 +1,6 @@
 ---
 title: Vše co chceme
-contentType: prose
+contentType: poetry
 ---
 
 <section>

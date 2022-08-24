@@ -1,6 +1,6 @@
 ---
 title: Chez Georges
-contentType: prose
+contentType: poetry
 ---
 
 <section>

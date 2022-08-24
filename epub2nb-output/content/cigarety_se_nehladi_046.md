@@ -1,6 +1,6 @@
 ---
 title: Pařížské obrazy
-contentType: prose
+contentType: poetry
 ---
 
 <section>

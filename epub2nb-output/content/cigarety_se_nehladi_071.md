@@ -1,6 +1,6 @@
 ---
 title: Námluvy
-contentType: prose
+contentType: poetry
 ---
 
 <section>

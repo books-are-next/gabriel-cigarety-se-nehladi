@@ -1,6 +1,6 @@
 ---
 title: Jdeme Karlínem
-contentType: prose
+contentType: poetry
 ---
 
 <section>

@@ -1,6 +1,6 @@
 ---
 title: Čtyřikrát týdně
-contentType: prose
+contentType: poetry
 ---
 
 <section>

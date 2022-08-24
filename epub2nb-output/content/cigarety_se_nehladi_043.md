@@ -1,6 +1,6 @@
 ---
 title: Na prodej
-contentType: prose
+contentType: poetry
 ---
 
 <section>

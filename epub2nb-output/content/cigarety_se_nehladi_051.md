@@ -1,6 +1,6 @@
 ---
 title: Ty zkoušky jsem naštěstí neudělal
-contentType: prose
+contentType: poetry
 ---
 
 <section>

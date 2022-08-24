@@ -1,6 +1,6 @@
 ---
 title: "*\_*\_*\_"
-contentType: prose
+contentType: poetry
 ---
 
 <section>

@@ -1,6 +1,6 @@
 ---
 title: Řeznictví na konci světa
-contentType: prose
+contentType: poetry
 ---
 
 <section>

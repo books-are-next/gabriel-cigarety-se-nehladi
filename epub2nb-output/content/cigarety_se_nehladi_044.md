@@ -1,6 +1,6 @@
 ---
 title: Bez jediné vady
-contentType: prose
+contentType: poetry
 ---
 
 <section>

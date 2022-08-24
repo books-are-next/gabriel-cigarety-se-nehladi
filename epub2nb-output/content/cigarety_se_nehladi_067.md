@@ -1,6 +1,6 @@
 ---
 title: Bydliště
-contentType: prose
+contentType: poetry
 ---
 
 <section>

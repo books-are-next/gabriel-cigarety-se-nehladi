@@ -1,6 +1,6 @@
 ---
 title: Všude kolem jsou prý lidé
-contentType: prose
+contentType: poetry
 ---
 
 <section>

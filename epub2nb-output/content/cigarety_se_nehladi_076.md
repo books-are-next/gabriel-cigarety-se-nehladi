@@ -1,6 +1,6 @@
 ---
 title: By night
-contentType: prose
+contentType: poetry
 ---
 
 <section>

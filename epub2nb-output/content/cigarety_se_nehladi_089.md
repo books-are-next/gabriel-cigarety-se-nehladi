@@ -1,6 +1,6 @@
 ---
 title: "Larvy a\_návraty"
-contentType: prose
+contentType: poetry
 ---
 
 <section>

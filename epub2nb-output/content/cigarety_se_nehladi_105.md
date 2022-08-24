@@ -1,6 +1,6 @@
 ---
 title: Planety se rodí létem
-contentType: prose
+contentType: poetry
 ---
 
 <section>

@@ -1,11 +1,16 @@
 {
   "params": {
     "metadata": {
+      "languageCode": "cs",
       "title": "Cigarety se nehladí",
       "identifier": "urn:uuid:296c0919-9963-415a-a386-6c26c077b931",
       "author": "Jan Gabriel",
       "publisher": "Městská knihovna v Praze",
-      "modified": "2021-07-27T00:00:00.000Z"
+      "modified": "2021-07-27T00:00:00.000Z",
+      "contentType": "poetry",
+      "publisherShort": "mkp",
+      "edition": "Poezie",
+      "yearPublished": "2022"
     },
     "elements": {
       "title": "MLP.uroven1.*\nMLP.uroven2.kapitola\nMLP.uroven2.basne\nMLP.uroven2.kapitola.dopis\nMLP.uroven2.kapitola.upraven\ne.booknadpis2\ne.booknadpis2bezodstrnkovn\ne.booknadpis2probasne\ne.bookobsah\nheading.id.2\nmlpuroven1.*\nmlpuroven2.*\nMLP.UROVEN2.BASNE.II\nMLP.UROVEN2.KAPITOLA\nMLP.UROVEN2.PARAL\nMLP.uroven1.PARAL",
@@ -20,11 +25,11 @@
       "brBefore": ".+12.0\n.+12.12\n.+12.0.\n.+12.12.\ne.bookversebezpredsazeni.*pred.*\ne.bookodsazeniodstavce.*pred.*",
       "brAfter": ".+0.12\n.+12.12\n.+0.12.\n.+12.12.\ne.bookversebezpredsazeni.*za.*\ne.bookodsazeniodstavce.*za.*",
       "blockquote": "MLP.DENIK\nMLP.dopis.*\nMLP.citat\nMLP.prima.rec\ne.bookdopis\ne.bookprozatextkurzivadoprava",
-      "centered": ".*uprostred.*",
       "figure": "MLP.obrazky.*\nmlpobrazky",
+      "centered": ".*uprostred.*",
+      "verse": "MLP.verse.*",
       "em": ".*kurziva.*\n.*-I-.*\n.*-I\n.*_I_.*\n.*_I\nMLP.venovani\nMLP.verse.*\nMLP.titulka.prekladatel\nMLP.pozn.pod.carou\nMLP.scenicke.poznamky\ne.booktextvenovani.*\nmlpvenovani.*\nmlpversei",
       "strong": "MLP.tiraz.autor.a.nazev\nMLP.tiraz.podnazev\nMLP.licence.paragraf\n.*tucne.*\n.*tucna.*\n.*-B-\n.*-B\n.*_B_\n.*_B\nMLP.prima.rec\nMLP.prima.rec.bez.mezery\ne.booktirazautoradilo\nmlptextb\nmlptirazautoranazev",
-      "verse": "MLP.verse.*",
       "remove": "",
       "ignore": ""
     },
@@ -32,50 +37,55 @@
       {
         "isSection": true,
         "id": "section-1",
+        "listType": "plain",
         "children": [
           {
             "filename": "cigarety_se_nehladi_001.md",
             "xhtml": "cigarety_se_nehladi_001.xhtml",
             "id": 0,
-            "role": "chapter",
+            "role": "cover",
             "listType": "plain",
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "cigarety_se_nehladi_002.md",
             "xhtml": "cigarety_se_nehladi_002.xhtml",
             "id": 1,
-            "role": "chapter",
+            "role": "promo",
             "listType": "plain",
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "cigarety_se_nehladi_003.md",
             "xhtml": "cigarety_se_nehladi_003.xhtml",
             "id": 2,
-            "role": "chapter",
+            "role": "about",
             "listType": "plain",
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "cigarety_se_nehladi_004.md",
             "xhtml": "cigarety_se_nehladi_004.xhtml",
             "id": 3,
-            "role": "chapter",
+            "role": "about",
             "listType": "plain",
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "cigarety_se_nehladi_005.md",
@@ -86,7 +96,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Denní zprávy"
           },
           {
             "filename": "cigarety_se_nehladi_006.md",
@@ -97,7 +109,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Odposlechy"
           },
           {
             "filename": "cigarety_se_nehladi_007.md",
@@ -108,7 +122,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Řeznictví na konci světa"
           },
           {
             "filename": "cigarety_se_nehladi_008.md",
@@ -119,7 +135,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Zastavení 1"
           },
           {
             "filename": "cigarety_se_nehladi_009.md",
@@ -130,7 +148,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Zastavení 2"
           },
           {
             "filename": "cigarety_se_nehladi_010.md",
@@ -141,7 +161,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "* * *"
           },
           {
             "filename": "cigarety_se_nehladi_011.md",
@@ -152,7 +174,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Kavárna"
           },
           {
             "filename": "cigarety_se_nehladi_012.md",
@@ -163,7 +187,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "* * *"
           },
           {
             "filename": "cigarety_se_nehladi_013.md",
@@ -174,7 +200,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Ve skleněnce"
           },
           {
             "filename": "cigarety_se_nehladi_014.md",
@@ -185,7 +213,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "* * *"
           },
           {
             "filename": "cigarety_se_nehladi_015.md",
@@ -196,7 +226,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Jdeme Karlínem"
           },
           {
             "filename": "cigarety_se_nehladi_016.md",
@@ -207,7 +239,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Ve čtvrtek"
           },
           {
             "filename": "cigarety_se_nehladi_017.md",
@@ -218,7 +252,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Zapomnění"
           },
           {
             "filename": "cigarety_se_nehladi_018.md",
@@ -229,7 +265,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Jen jméno"
           },
           {
             "filename": "cigarety_se_nehladi_019.md",
@@ -240,7 +278,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "* * *"
           },
           {
             "filename": "cigarety_se_nehladi_020.md",
@@ -251,7 +291,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "* * *"
           },
           {
             "filename": "cigarety_se_nehladi_021.md",
@@ -262,7 +304,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Burza"
           },
           {
             "filename": "cigarety_se_nehladi_022.md",
@@ -273,7 +317,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "* * *"
           },
           {
             "filename": "cigarety_se_nehladi_023.md",
@@ -284,7 +330,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Lázně a návraty"
           },
           {
             "filename": "cigarety_se_nehladi_024.md",
@@ -295,7 +343,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "* * *"
           },
           {
             "filename": "cigarety_se_nehladi_025.md",
@@ -306,7 +356,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Události"
           },
           {
             "filename": "cigarety_se_nehladi_026.md",
@@ -317,7 +369,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Studium perštiny"
           },
           {
             "filename": "cigarety_se_nehladi_027.md",
@@ -328,7 +382,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "* * *"
           },
           {
             "filename": "cigarety_se_nehladi_028.md",
@@ -339,7 +395,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Z ruky do ruky"
           },
           {
             "filename": "cigarety_se_nehladi_029.md",
@@ -350,7 +408,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "* * *"
           },
           {
             "filename": "cigarety_se_nehladi_030.md",
@@ -361,7 +421,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Zprávy II"
           },
           {
             "filename": "cigarety_se_nehladi_031.md",
@@ -372,7 +434,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Kavárna bez křídel"
           },
           {
             "filename": "cigarety_se_nehladi_032.md",
@@ -383,7 +447,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "* * *"
           },
           {
             "filename": "cigarety_se_nehladi_033.md",
@@ -394,7 +460,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "* * *"
           },
           {
             "filename": "cigarety_se_nehladi_034.md",
@@ -405,7 +473,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Všude kolem jsou prý lidé"
           },
           {
             "filename": "cigarety_se_nehladi_035.md",
@@ -416,7 +486,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Ještě několik let"
           },
           {
             "filename": "cigarety_se_nehladi_036.md",
@@ -427,7 +499,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Pohlednice z Tibetu"
           },
           {
             "filename": "cigarety_se_nehladi_037.md",
@@ -438,7 +512,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Lovení v lese"
           },
           {
             "filename": "cigarety_se_nehladi_038.md",
@@ -449,7 +525,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Cigaretové papírky: Olšany"
           },
           {
             "filename": "cigarety_se_nehladi_039.md",
@@ -460,7 +538,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Laser: jak tu leží a běží"
           },
           {
             "filename": "cigarety_se_nehladi_040.md",
@@ -471,7 +551,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "* * *"
           },
           {
             "filename": "cigarety_se_nehladi_041.md",
@@ -482,7 +564,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Za zdí"
           },
           {
             "filename": "cigarety_se_nehladi_042.md",
@@ -493,7 +577,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Vzpomínka na nároží"
           },
           {
             "filename": "cigarety_se_nehladi_043.md",
@@ -504,7 +590,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Na prodej"
           },
           {
             "filename": "cigarety_se_nehladi_044.md",
@@ -515,7 +603,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Bez jediné vady"
           },
           {
             "filename": "cigarety_se_nehladi_045.md",
@@ -526,7 +616,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Příroda pod střechou"
           },
           {
             "filename": "cigarety_se_nehladi_046.md",
@@ -537,7 +629,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Pařížské obrazy"
           },
           {
             "filename": "cigarety_se_nehladi_047.md",
@@ -548,7 +642,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Bloudění a střechy"
           },
           {
             "filename": "cigarety_se_nehladi_048.md",
@@ -559,7 +655,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Každý sám za sebe"
           },
           {
             "filename": "cigarety_se_nehladi_049.md",
@@ -570,7 +668,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Zátiší"
           },
           {
             "filename": "cigarety_se_nehladi_050.md",
@@ -581,7 +681,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Přiznání"
           },
           {
             "filename": "cigarety_se_nehladi_051.md",
@@ -592,7 +694,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Ty zkoušky jsem naštěstí neudělal"
           },
           {
             "filename": "cigarety_se_nehladi_052.md",
@@ -603,7 +707,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Proměny"
           },
           {
             "filename": "cigarety_se_nehladi_053.md",
@@ -614,7 +720,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Na cestě"
           },
           {
             "filename": "cigarety_se_nehladi_054.md",
@@ -625,7 +733,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "* * *"
           },
           {
             "filename": "cigarety_se_nehladi_055.md",
@@ -636,7 +746,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Nemožné objekty"
           },
           {
             "filename": "cigarety_se_nehladi_056.md",
@@ -647,7 +759,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Ve místě i v přírodě"
           },
           {
             "filename": "cigarety_se_nehladi_057.md",
@@ -658,7 +772,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "* * *"
           },
           {
             "filename": "cigarety_se_nehladi_058.md",
@@ -669,7 +785,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Zůstaly jen nápisy"
           },
           {
             "filename": "cigarety_se_nehladi_059.md",
@@ -680,7 +798,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Rozhledy"
           },
           {
             "filename": "cigarety_se_nehladi_060.md",
@@ -691,7 +811,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "* * *"
           },
           {
             "filename": "cigarety_se_nehladi_061.md",
@@ -702,7 +824,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "* * *"
           },
           {
             "filename": "cigarety_se_nehladi_062.md",
@@ -713,7 +837,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Proměny"
           },
           {
             "filename": "cigarety_se_nehladi_063.md",
@@ -724,7 +850,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "První chvíle"
           },
           {
             "filename": "cigarety_se_nehladi_064.md",
@@ -735,7 +863,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "* * *"
           },
           {
             "filename": "cigarety_se_nehladi_065.md",
@@ -746,7 +876,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Volný pád"
           },
           {
             "filename": "cigarety_se_nehladi_066.md",
@@ -757,7 +889,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Ohlédnutí"
           },
           {
             "filename": "cigarety_se_nehladi_067.md",
@@ -768,7 +902,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Bydliště"
           },
           {
             "filename": "cigarety_se_nehladi_068.md",
@@ -779,7 +915,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "* * *"
           },
           {
             "filename": "cigarety_se_nehladi_069.md",
@@ -790,7 +928,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Kolemjdoucí města"
           },
           {
             "filename": "cigarety_se_nehladi_070.md",
@@ -801,7 +941,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "* * *"
           },
           {
             "filename": "cigarety_se_nehladi_071.md",
@@ -812,7 +954,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Námluvy"
           },
           {
             "filename": "cigarety_se_nehladi_072.md",
@@ -823,7 +967,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Kdykoli"
           },
           {
             "filename": "cigarety_se_nehladi_073.md",
@@ -834,7 +980,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "* * *"
           },
           {
             "filename": "cigarety_se_nehladi_074.md",
@@ -845,7 +993,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Tam a zpět"
           },
           {
             "filename": "cigarety_se_nehladi_075.md",
@@ -856,7 +1006,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "* * *"
           },
           {
             "filename": "cigarety_se_nehladi_076.md",
@@ -867,7 +1019,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "By night"
           },
           {
             "filename": "cigarety_se_nehladi_077.md",
@@ -878,7 +1032,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "* * *"
           },
           {
             "filename": "cigarety_se_nehladi_078.md",
@@ -889,7 +1045,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "* * *"
           },
           {
             "filename": "cigarety_se_nehladi_079.md",
@@ -900,7 +1058,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Včera i po letech"
           },
           {
             "filename": "cigarety_se_nehladi_080.md",
@@ -911,7 +1071,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Chez Georges"
           },
           {
             "filename": "cigarety_se_nehladi_081.md",
@@ -922,7 +1084,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Vše co chceme"
           },
           {
             "filename": "cigarety_se_nehladi_082.md",
@@ -933,7 +1097,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "* * *"
           },
           {
             "filename": "cigarety_se_nehladi_083.md",
@@ -944,7 +1110,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Vzpomínka"
           },
           {
             "filename": "cigarety_se_nehladi_084.md",
@@ -955,7 +1123,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Události"
           },
           {
             "filename": "cigarety_se_nehladi_085.md",
@@ -966,7 +1136,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Pro jednou to stačí"
           },
           {
             "filename": "cigarety_se_nehladi_086.md",
@@ -977,7 +1149,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "* * * "
           },
           {
             "filename": "cigarety_se_nehladi_087.md",
@@ -988,7 +1162,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Kufry vpravo okna vlevo"
           },
           {
             "filename": "cigarety_se_nehladi_088.md",
@@ -999,7 +1175,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Čtyřikrát týdně"
           },
           {
             "filename": "cigarety_se_nehladi_089.md",
@@ -1010,7 +1188,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Larvy a návraty"
           },
           {
             "filename": "cigarety_se_nehladi_090.md",
@@ -1021,7 +1201,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Rekonstrukce"
           },
           {
             "filename": "cigarety_se_nehladi_091.md",
@@ -1032,7 +1214,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "* * *"
           },
           {
             "filename": "cigarety_se_nehladi_092.md",
@@ -1043,7 +1227,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Několik maličkostí"
           },
           {
             "filename": "cigarety_se_nehladi_093.md",
@@ -1054,7 +1240,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "* * *"
           },
           {
             "filename": "cigarety_se_nehladi_094.md",
@@ -1065,7 +1253,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "* * *"
           },
           {
             "filename": "cigarety_se_nehladi_095.md",
@@ -1076,7 +1266,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Den navíc"
           },
           {
             "filename": "cigarety_se_nehladi_096.md",
@@ -1087,7 +1279,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Přenášené poselství"
           },
           {
             "filename": "cigarety_se_nehladi_097.md",
@@ -1098,7 +1292,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "* * *"
           },
           {
             "filename": "cigarety_se_nehladi_098.md",
@@ -1109,7 +1305,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "* * *"
           },
           {
             "filename": "cigarety_se_nehladi_099.md",
@@ -1120,7 +1318,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "* * *"
           },
           {
             "filename": "cigarety_se_nehladi_100.md",
@@ -1131,7 +1331,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Tajemství zůstalo utajeno"
           },
           {
             "filename": "cigarety_se_nehladi_101.md",
@@ -1142,7 +1344,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "* * *"
           },
           {
             "filename": "cigarety_se_nehladi_102.md",
@@ -1153,7 +1357,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "* * *"
           },
           {
             "filename": "cigarety_se_nehladi_103.md",
@@ -1164,7 +1370,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "* * *"
           },
           {
             "filename": "cigarety_se_nehladi_104.md",
@@ -1175,7 +1383,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Přeskočit moře otírat se kolonádou"
           },
           {
             "filename": "cigarety_se_nehladi_105.md",
@@ -1186,7 +1396,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Planety se rodí létem"
           },
           {
             "filename": "cigarety_se_nehladi_106.md",
@@ -1197,7 +1409,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "* * *"
           },
           {
             "filename": "cigarety_se_nehladi_107.md",
@@ -1208,7 +1422,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "* * *"
           },
           {
             "filename": "cigarety_se_nehladi_108.md",
@@ -1219,18 +1435,21 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Příběhy"
           },
           {
             "filename": "cigarety_se_nehladi_109.md",
             "xhtml": "cigarety_se_nehladi_109.xhtml",
             "id": 108,
-            "role": "chapter",
+            "role": "about",
             "listType": "plain",
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           }
         ]
       }
@@ -1961,6 +2180,6 @@
       "user": "books-are-next",
       "repo": "gabriel-cigarety-se-nehladi"
     },
-    "generatedAt": 1661317138390
+    "generatedAt": 1661326435399
   }
 }

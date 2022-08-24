@@ -1,6 +1,6 @@
 ---
 title: "Včera i\_po letech"
-contentType: prose
+contentType: poetry
 ---
 
 <section>

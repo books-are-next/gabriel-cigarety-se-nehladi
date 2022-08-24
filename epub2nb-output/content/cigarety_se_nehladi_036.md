@@ -1,6 +1,6 @@
 ---
 title: "Pohlednice z\_Tibetu"
-contentType: prose
+contentType: poetry
 ---
 
 <section>

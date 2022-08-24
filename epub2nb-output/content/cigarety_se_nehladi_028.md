@@ -1,6 +1,6 @@
 ---
 title: "Z\_ruky do ruky"
-contentType: prose
+contentType: poetry
 ---
 
 <section>

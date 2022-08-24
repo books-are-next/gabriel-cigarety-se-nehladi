@@ -1,6 +1,6 @@
 ---
 title: Příroda pod střechou
-contentType: prose
+contentType: poetry
 ---
 
 <section>

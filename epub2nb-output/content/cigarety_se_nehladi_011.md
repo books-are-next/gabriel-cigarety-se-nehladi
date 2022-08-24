@@ -1,6 +1,6 @@
 ---
 title: Kavárna
-contentType: prose
+contentType: poetry
 ---
 
 <section>

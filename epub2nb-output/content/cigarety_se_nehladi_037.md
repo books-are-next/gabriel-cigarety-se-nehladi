@@ -1,6 +1,6 @@
 ---
 title: "Lovení v\_lese"
-contentType: prose
+contentType: poetry
 ---
 
 <section>
