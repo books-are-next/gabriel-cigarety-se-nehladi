@@ -140,19 +140,19 @@ tocBase:
         title: Zastavení 2
         hiddenTitle: false
       - link: cigarety_se_nehladi_010.html
-        title: "*\_*\_*"
+        title: "*\_*\_* (Každý si spočítá ...)"
         hiddenTitle: false
       - link: cigarety_se_nehladi_011.html
         title: Kavárna
         hiddenTitle: false
       - link: cigarety_se_nehladi_012.html
-        title: "*\_*\_*"
+        title: "*\_*\_* (Pobledlé dveře ...)"
         hiddenTitle: false
       - link: cigarety_se_nehladi_013.html
         title: Ve skleněnce
         hiddenTitle: false
       - link: cigarety_se_nehladi_014.html
-        title: "*\_*\_*"
+        title: "*\_*\_* (Okraj dne lemovaný ...)"
         hiddenTitle: false
       - link: cigarety_se_nehladi_015.html
         title: Jdeme Karlínem
@@ -167,22 +167,22 @@ tocBase:
         title: Jen jméno
         hiddenTitle: false
       - link: cigarety_se_nehladi_019.html
-        title: "*\_*\_*"
+        title: "*\_*\_* (Stále ještě elegantní ...)"
         hiddenTitle: false
       - link: cigarety_se_nehladi_020.html
-        title: "*\_*\_*"
+        title: "*\_*\_* (I když jsem rozsvítil ...)"
         hiddenTitle: false
       - link: cigarety_se_nehladi_021.html
         title: Burza
         hiddenTitle: false
       - link: cigarety_se_nehladi_022.html
-        title: "*\_*\_*"
+        title: "*\_*\_* (Některé dámy ...)"
         hiddenTitle: false
       - link: cigarety_se_nehladi_023.html
         title: "Lázně a\_návraty"
         hiddenTitle: false
       - link: cigarety_se_nehladi_024.html
-        title: "*\_*\_*"
+        title: "*\_*\_* (Zasněžená skříň ...)"
         hiddenTitle: false
       - link: cigarety_se_nehladi_025.html
         title: Události
@@ -191,13 +191,13 @@ tocBase:
         title: Studium perštiny
         hiddenTitle: false
       - link: cigarety_se_nehladi_027.html
-        title: "*\_*\_*"
+        title: "*\_*\_* (Ženy se ...)"
         hiddenTitle: false
       - link: cigarety_se_nehladi_028.html
         title: "Z\_ruky do ruky"
         hiddenTitle: false
       - link: cigarety_se_nehladi_029.html
-        title: "*\_*\_*"
+        title: "*\_*\_* (Hned po ránu ...)"
         hiddenTitle: false
       - link: cigarety_se_nehladi_030.html
         title: Zprávy II
@@ -206,10 +206,10 @@ tocBase:
         title: Kavárna bez křídel
         hiddenTitle: false
       - link: cigarety_se_nehladi_032.html
-        title: "*\_*\_*"
+        title: "*\_*\_* (Cestovat kolem stolu ...)"
         hiddenTitle: false
       - link: cigarety_se_nehladi_033.html
-        title: "*\_*\_*"
+        title: "*\_*\_* (Tak dlouho se chodí ...)"
         hiddenTitle: false
       - link: cigarety_se_nehladi_034.html
         title: Všude kolem jsou prý lidé
@@ -230,7 +230,7 @@ tocBase:
         title: "Laser: jak tu leží a\_běží"
         hiddenTitle: false
       - link: cigarety_se_nehladi_040.html
-        title: "*\_*\_*"
+        title: "*\_*\_* (Vietnamci se culí ...)"
         hiddenTitle: false
       - link: cigarety_se_nehladi_041.html
         title: Za zdí
@@ -272,7 +272,7 @@ tocBase:
         title: Na cestě
         hiddenTitle: false
       - link: cigarety_se_nehladi_054.html
-        title: "*\_*\_*"
+        title: "*\_*\_* (Čí křoví je větší ...)"
         hiddenTitle: false
       - link: cigarety_se_nehladi_055.html
         title: Nemožné objekty
@@ -281,7 +281,7 @@ tocBase:
         title: "Ve místě i v\_přírodě"
         hiddenTitle: false
       - link: cigarety_se_nehladi_057.html
-        title: "*\_*\_*"
+        title: "*\_*\_* (Deštníky ...)"
         hiddenTitle: false
       - link: cigarety_se_nehladi_058.html
         title: Zůstaly jen nápisy
@@ -290,10 +290,10 @@ tocBase:
         title: Rozhledy
         hiddenTitle: false
       - link: cigarety_se_nehladi_060.html
-        title: "*\_*\_*"
+        title: "*\_*\_* (U Rolls-Royce ...)"
         hiddenTitle: false
       - link: cigarety_se_nehladi_061.html
-        title: "*\_*\_*"
+        title: "*\_*\_* (Reader’s Digest poletují ...)"
         hiddenTitle: false
       - link: cigarety_se_nehladi_062.html
         title: Proměny
@@ -302,7 +302,7 @@ tocBase:
         title: První chvíle
         hiddenTitle: false
       - link: cigarety_se_nehladi_064.html
-        title: "*\_*\_*"
+        title: "*\_*\_* (Vytáhni z kapsy blesk ...)"
         hiddenTitle: false
       - link: cigarety_se_nehladi_065.html
         title: Volný pád
@@ -314,13 +314,13 @@ tocBase:
         title: Bydliště
         hiddenTitle: false
       - link: cigarety_se_nehladi_068.html
-        title: "*\_*\_*"
+        title: "*\_*\_* (Rozpaky nekuřáků ...)"
         hiddenTitle: false
       - link: cigarety_se_nehladi_069.html
         title: Kolemjdoucí města
         hiddenTitle: false
       - link: cigarety_se_nehladi_070.html
-        title: "*\_*\_*"
+        title: "*\_*\_* (Pomočit ozvěnu ...)"
         hiddenTitle: false
       - link: cigarety_se_nehladi_071.html
         title: Námluvy
@@ -329,22 +329,22 @@ tocBase:
         title: Kdykoli
         hiddenTitle: false
       - link: cigarety_se_nehladi_073.html
-        title: "*\_*\_*"
+        title: "*\_*\_* (Venku cosi houká ...)"
         hiddenTitle: false
       - link: cigarety_se_nehladi_074.html
         title: "Tam a\_zpět"
         hiddenTitle: false
       - link: cigarety_se_nehladi_075.html
-        title: "*\_*\_*"
+        title: "*\_*\_* (Tělo přišpendlené ...)"
         hiddenTitle: false
       - link: cigarety_se_nehladi_076.html
         title: By night
         hiddenTitle: false
       - link: cigarety_se_nehladi_077.html
-        title: "*\_*\_*"
+        title: "*\_*\_* (Čísi ruka šmátrá ...)"
         hiddenTitle: false
       - link: cigarety_se_nehladi_078.html
-        title: "*\_*\_*"
+        title: "*\_*\_* (Jistě i náznakem ...)"
         hiddenTitle: false
       - link: cigarety_se_nehladi_079.html
         title: "Včera i\_po letech"
@@ -356,7 +356,7 @@ tocBase:
         title: Vše co chceme
         hiddenTitle: false
       - link: cigarety_se_nehladi_082.html
-        title: "*\_*\_*"
+        title: "*\_*\_* (I v přírodě ...)"
         hiddenTitle: false
       - link: cigarety_se_nehladi_083.html
         title: Vzpomínka
@@ -368,7 +368,7 @@ tocBase:
         title: Pro jednou to stačí
         hiddenTitle: false
       - link: cigarety_se_nehladi_086.html
-        title: "*\_*\_*\_"
+        title: "*\_*\_*\_(Vyvolávat prsty jménem ...)"
         hiddenTitle: false
       - link: cigarety_se_nehladi_087.html
         title: Kufry vpravo okna vlevo
@@ -383,16 +383,16 @@ tocBase:
         title: Rekonstrukce
         hiddenTitle: false
       - link: cigarety_se_nehladi_091.html
-        title: "*\_*\_*"
+        title: "*\_*\_* (Řekne se nůž ...)"
         hiddenTitle: false
       - link: cigarety_se_nehladi_092.html
         title: Několik maličkostí
         hiddenTitle: false
       - link: cigarety_se_nehladi_093.html
-        title: "*\_*\_*"
+        title: "*\_*\_* (S kruhy pod očima ...)"
         hiddenTitle: false
       - link: cigarety_se_nehladi_094.html
-        title: "*\_*\_*"
+        title: "*\_*\_* (Nemusíte se ničeho obávat ...)"
         hiddenTitle: false
       - link: cigarety_se_nehladi_095.html
         title: Den navíc
@@ -401,25 +401,25 @@ tocBase:
         title: Přenášené poselství
         hiddenTitle: false
       - link: cigarety_se_nehladi_097.html
-        title: "*\_*\_*"
+        title: "*\_*\_* (Cesty jsou plné barev ...)"
         hiddenTitle: false
       - link: cigarety_se_nehladi_098.html
-        title: "*\_*\_*"
+        title: "*\_*\_* (Sezóna začala ...)"
         hiddenTitle: false
       - link: cigarety_se_nehladi_099.html
-        title: "*\_*\_*"
+        title: "*\_*\_* (Zvenčí se domovní dveře ...)"
         hiddenTitle: false
       - link: cigarety_se_nehladi_100.html
         title: Tajemství zůstalo utajeno
         hiddenTitle: false
       - link: cigarety_se_nehladi_101.html
-        title: "*\_*\_*"
+        title: "*\_*\_* (Vcházet stárnutím ...)"
         hiddenTitle: false
       - link: cigarety_se_nehladi_102.html
-        title: "*\_*\_*"
+        title: "*\_*\_* (Oba jen čárou ...)"
         hiddenTitle: false
       - link: cigarety_se_nehladi_103.html
-        title: "*\_*\_*"
+        title: "*\_*\_* (Rozprostři krajinu ...)"
         hiddenTitle: false
       - link: cigarety_se_nehladi_104.html
         title: Přeskočit moře otírat se kolonádou
@@ -428,10 +428,10 @@ tocBase:
         title: Planety se rodí létem
         hiddenTitle: false
       - link: cigarety_se_nehladi_106.html
-        title: "*\_*\_*"
+        title: "*\_*\_* (Mao je dnes něco ...)"
         hiddenTitle: false
       - link: cigarety_se_nehladi_107.html
-        title: "*\_*\_*"
+        title: "*\_*\_* (Cigarety jsou pusté ...)"
         hiddenTitle: false
       - link: cigarety_se_nehladi_108.html
         title: Příběhy
